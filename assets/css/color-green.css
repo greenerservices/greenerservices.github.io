@@ -2,11 +2,11 @@
 		COLOR Green
 ==============================*/
 ::selection {
-  background: #28a745;
+  background: #0d543a;
 }
 
 a, a:focus {
-  color: #28a745;
+  color: #0d543a;
 }
 
 a:hover, a:active {
@@ -14,18 +14,18 @@ a:hover, a:active {
 }
 
 .primary-menu ul.navbar-nav > li:hover > a:not(.btn), .primary-menu ul.navbar-nav > li > a.active:not(.btn) {
-  color: #28a745;
+  color: #0d543a;
 }
 .primary-menu ul.navbar-nav > li.dropdown .dropdown-menu li:hover > a:not(.btn) {
-  color: #28a745;
+  color: #0d543a;
 }
 .primary-menu.navbar-line-under-text ul.navbar-nav > li > a:not(.btn):after {
-  border-color: #28a745;
+  border-color: #0d543a;
 }
 
 /*=== Side Navigation ===*/
 .idocs-navigation .nav .nav .nav-item .nav-link.active:after, .idocs-navigation.docs-navigation-dark .nav .nav .nav-item .nav-link.active:after {
-  border-color: #28a745;
+  border-color: #0d543a;
 }
 
 /* Accordion & Toggle */
