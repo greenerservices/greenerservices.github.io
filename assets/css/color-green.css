@@ -39,39 +39,39 @@ a:hover, a:active {
 
 /* Nav */
 .nav:not(.nav-pills) .nav-item .nav-link.active, .nav:not(.nav-pills) .nav-item .nav-link:hover {
-  color: #28a745;
+  color: #0d543a;
 }
 
 .nav-tabs .nav-item .nav-link.active {
   color: #0c2f55;
 }
 .nav-tabs .nav-item .nav-link.active:after {
-  background-color: #28a745;
+  background-color: #0d543a;
 }
 .nav-tabs .nav-item .nav-link:not(.active):hover {
-  color: #28a745;
+  color: #0d543a;
 }
 .nav-tabs.flex-column .nav-item .nav-link.active {
-  color: #28a745;
+  color: #0d543a;
 }
 
 .nav-pills .nav-link:not(.active):hover {
-  color: #28a745;
+  color: #0d543a;
 }
 
 #footer .nav .nav-item .nav-link:focus {
-  color: #28a745;
+  color: #0d543a;
 }
 #footer .nav .nav-link:hover {
-  color: #28a745;
+  color: #0d543a;
 }
 #footer .footer-copyright .nav .nav-link:hover {
-  color: #28a745;
+  color: #0d543a;
 }
 
 /* Back to Top */
 #back-to-top:hover {
-  background-color: #28a745;
+  background-color: #0d543a;
 }
 
 /* Extras */
