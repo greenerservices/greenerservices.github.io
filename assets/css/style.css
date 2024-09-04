@@ -2409,6 +2409,10 @@ footer.semantic-footer ul li a {
 }
 /*end of color palette*/
 
+.ti-close {
+    display:none;
+}
+
 
 /*--------------------------------
   23. Login
