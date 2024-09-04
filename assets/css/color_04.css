@@ -1,0 +1,211 @@
+/*
+
+Template: VedhaDocs - The complete documentation template
+Version: 1.0
+Author: vedhathemes
+
+*/
+/*================================================
+  [  Table of contents  ]
+  ================================================
+  
+  :: Sidemenu
+  :: Header
+  :: Layout
+  :: Article
+  :: Article-2
+  :: Footer
+  :: 404
+  :: Pagination
+  :: Badge
+  :: Contact
+  :: Faq
+  :: Chat-Box-Header
+
+======================================
+[ End table content ]
+======================================*/
+
+/*============================
+  sidemenu
+  ============================*/
+.org-theme .sidebar-wrapper {
+  background:#960d0d;
+}
+
+.sidebar-wrapper .sidebar-brand{
+    background: #6b0101;
+}
+.sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu ul li.active a
+{
+  color: #000000;
+}
+.sidebar-wrapper .sidebar-menu ul li.side-list.active > a
+{
+  color: #000000;
+}
+/*end of sidemenu*/
+
+/*============================
+  Header
+  ============================*/
+.doc-head-section,
+#show-sidebar {
+  background:linear-gradient(-20deg, #762b2b 0%, #ff4343 100%);
+}
+.header nav .navbar-collapse li.nav-item>a
+{
+  color:rgba(255,255,255,0.65);
+}
+.doc-head-section .navbar-nav .dropdown-menu .dropdown-item.active {
+    background: #ffd0d0 !important;
+}
+.header-full {
+    border-bottom: 1px solid #b33535;
+}
+.header nav .navbar-collapse li.nav-item.active > a
+{
+  color: #fff;
+}
+.navbar-light .navbar-brand
+{
+  color: #fff;
+}
+.upper-head h3
+{
+  color: #fff;
+}
+.upper-head p
+{
+  color: #fff;
+}
+.search-wrapper {
+  border-bottom: 1px solid #afb6cd;
+}
+.header-full .search-wrapper{
+  background: #b73636;
+}
+
+/*end of header*/
+
+/*============================
+  layout
+  ============================*/
+.imp-note{
+  border-left: 5px solid #ff8383;
+}
+
+#features h4 i {
+  color: #ff8383;
+}
+/*end of layout*/
+
+/*============================
+  article
+  ============================*/
+.article-inner-wrapper i
+{
+  color: #ea4e4e;
+}
+.article-content-list h5 i
+{
+  color: #f29d9d;
+}
+/*end of article*/
+
+/*============================
+  article-2
+  ============================*/
+.article-helpful .box-btns a
+{
+    border: 1px solid #e44f4f;
+    color: #e44f4f;
+}
+.article-helpful .box-btns a:hover {
+  background: #e44f4f;
+  color: #fff;
+}
+.comments .atr-comment .inner-comment a
+{
+  color:#abb4bb;
+}
+.leave_cmt form .input-wrapper input.submit-btn
+{
+  background: #da3c3c;
+}
+ul.pro-ul li:before
+{
+  border: 1px solid #ec3f3f;
+}
+/*end of article-2*/
+
+/*============================
+  footer
+  ============================*/
+footer
+{
+  background:linear-gradient(-20deg, #f04040 0%, #802d2d 100%);
+}
+footer ul li a
+{
+  color: #fff;
+  border-right: 1px solid #9b3131;
+}
+/*end of footer*/
+
+/*============================
+  404
+  ============================*/
+.error-sec a
+{background:#f36767;
+}
+/*end of 404*/
+
+/*============================
+  pagination
+  ============================*/
+.page-link {
+    color: #0c2a8f;
+}
+.page-item.active .page-link {
+  background-color: #960d0d;
+  border-color: #960d0d;
+}
+/*end of pagination*/
+
+/*============================
+  badge
+  ============================*/
+.badge-secondary
+{
+    background-color: #ee8c8c;
+}
+/*end of badge*/
+
+/*============================
+  contact
+  ============================*/
+.contact-form input[type=submit] {
+  background: #d93c3c;
+  border: 1px solid #d93c3c;
+  color: #fff;
+}
+/*end of contact*/
+
+/*============================
+  faq
+  ============================*/
+.faq-div h4 {
+  color: #ff9797;
+}
+/*end of faq*/
+
+/*============================
+  chat-box-header
+  ============================*/
+.chat-box-header,
+#chat-circle
+{
+  background: #960d0d;
+}
+/*end of chat-box-header*/

@@ -1,0 +1,225 @@
+/*
+
+Template: VedhaDocs - The complete documentation template
+Version: 1.0
+Author: vedhathemes
+
+*/
+/*================================================
+  [  Table of contents  ]
+  ================================================
+  
+  :: Sidemenu
+  :: Header
+  :: Layout
+  :: Article
+  :: Article-2
+  :: Footer
+  :: 404
+  :: Pagination
+  :: Badge
+  :: Contact
+  :: Faq
+  :: Chat-Box-Header
+
+======================================
+[ End table content ]
+======================================*/
+
+/*============================
+  sidemenu
+  ============================*/
+.org-theme .sidebar-wrapper,
+#show-sidebar {
+  background-image:linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),url('../images/sidenav.jpg');
+  background-size: cover;
+}
+.sidebar-wrapper .sidebar-brand{
+    background: #000000;
+}
+.sidebar-wrapper .sidebar-menu ul li a
+{
+  color: rgba(255,255,255,0.6) !important;
+}
+.sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu ul li.active a
+{
+  color: #fff !important;
+}
+.sidebar-wrapper .sidebar-menu ul li.side-list.active > a
+{
+  color: #fff !important;
+}
+/*end of sidemenu*/
+
+/*============================
+  Header
+  ============================*/
+.doc-head-section {
+    background: #111111;
+}
+.header-full {
+    border-bottom: 1px solid #252424;
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .show>.nav-link
+{
+  color: #fff;
+}
+.header nav .navbar-collapse li.nav-item>a
+{
+  color:rgba(255,255,255,0.65);
+}
+.header nav .navbar-collapse li.nav-item.active > a
+{
+  color: #fff;
+}
+.navbar-light .navbar-brand
+{
+  color: #fff;
+}
+.upper-head h3
+{
+  color: #fff;
+}
+.upper-head p
+{
+  color: #fff;
+}
+.search-wrapper {
+  border-bottom: 1px solid #838383;
+}
+
+.header-full .search-wrapper{
+  background: #232323;
+}
+.doc-head-section .navbar-nav .dropdown-menu .dropdown-item.active
+{
+  background: #d8d8d8 !important;
+}
+/*end of header*/
+
+/*============================
+  layout
+  ============================*/
+.imp-note{
+  border-left: 5px solid #000000;
+}
+
+#features h4 i {
+  color: #818181;
+}
+/*end of layout*/
+
+/*============================
+  article
+  ============================*/
+.article-inner-wrapper i
+{
+  color: #111111;
+}
+.article-content-list h5 i
+{
+  color: #6f6f6f;
+}
+/*end of article*/
+
+/*============================
+  article-2
+  ============================*/
+.article-helpful .box-btns a
+{
+  border: 1px solid #585858;
+  color: #585858;
+}
+.article-helpful .box-btns a:hover {
+  background: #585858;
+  color: #fff;
+}
+.comments .atr-comment .inner-comment a
+{
+  color:#d2d2d2;
+}
+.leave_cmt form .input-wrapper input.submit-btn
+{
+  background: #a9a9a9;
+}
+ul.pro-ul li:before
+{
+  border: 1px solid #000000;
+}
+/*end of article-2*/
+
+/*============================
+  footer
+  ============================*/
+footer
+{
+  background: #111111;
+}
+footer ul li a
+{
+  color: #fff;
+  border-right: 1px solid #434343;
+}
+/*end of footer*/
+
+/*============================
+  404
+  ============================*/
+.error-sec a
+{
+  background: #737373;
+}
+/*end of 404*/
+
+/*============================
+  pagination
+  ============================*/
+.page-link {
+    color: #222;
+}
+.page-item.active .page-link {
+  background-color: #0b1117;
+  border-color: #0b1117;
+}
+/*end of pagination*/
+
+/*============================
+  badge
+  ============================*/
+.badge-secondary
+{
+    background-color: #262525;
+}
+/*end of badge*/
+
+/*============================
+  contact
+  ============================*/
+.contact-form input[type=submit] {
+  background: #a9a9a9;
+  border: 1px solid #a9a9a9;
+  color: #fff;
+}
+/*end of contact*/
+
+/*============================
+  faq
+  ============================*/
+.faq-div h4 {
+  color: #c3c3c3;
+}
+/*end of faq*/
+
+/*============================
+  chat-box-header
+  ============================*/
+.chat-box-header
+{
+  background: #111;
+}
+#chat-circle
+{
+  background: #010304;
+}
+/*end of chat-box-header*/
