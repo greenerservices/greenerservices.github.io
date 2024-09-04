@@ -933,7 +933,7 @@ nav {
   top: 0;
   left: -300px;
   z-index: 999;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .sidebar-wrapper ul {
