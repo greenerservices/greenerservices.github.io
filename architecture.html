@@ -68,7 +68,7 @@
                         <li class="side-list"><a href="problem.html">2. Understand the problem (system)</a></li>
                         <li class="side-list"><a href="suppliers.html">3. Partner with greener suppliers</a></li>
                         <li class="side-list"><a href="journeys.html">4. Design for efficient journeys across all channels</a></li>
-                        <li class="side-list active"><a href="architecture.html">5. Design for efficient architecture & AI</a></li>
+                        <li class="side-list active"><a href="architecture.html">5. Design for efficiency through architecture</a></li>
                         <li class="side-list"><a href="software.html">6. Develop efficient software</a></li>
                         <li class="side-list"><a href="operations.html">7. Set up for greener operations & data</a></li>
                         <li class="side-list"><a href="hardware.html">8. Apply circular thinking to hardware</a></li>
@@ -111,8 +111,8 @@
                 <!-- end of header -->
                 <div class="upper-head">
                     <section class="introduction">
-                    <h1 class="greentext">5. Design for efficient architecture & AI</h1>
-                    <p>The way service architecture is designed can have significant implications for environmental footprint, whether that service is hosted ’on-premises’(on network infrastructure that is owned and managed by the organisation providing the service) or or in the cloud, when managed by a third party. By adopting the right practices we can design architectures that maximise efficiency and reduce waste as far as possible.
+                    <h1 class="greentext">5. Design for efficiency through architecture</h1>
+                    <p>The way service architecture is designed can have significant implications for environmental footprint, whether that service is hosted ’on-premises’(on network infrastructure that is owned and managed by the organisation providing the service) or or in the cloud, when managed by a third party. By adopting the right practices we can design architectures that maximise efficiency and reduce waste as far as possible, so reducing electricity consumption of servers, energy and/or water used for server cooling and the embodied impacts coming from the manufacture, distribution and disposal of buildings, cooling equipment and servers.
                     </p>
                     <h3>Further Reading</h3>
                     <p><a href="https://www.gov.uk/service-manual/technology/deciding-how-to-host-your-service/" target="_blank" class="link-primary">Deciding How To Host Your Service,</a> GOV.UK Service Manual</p>
@@ -136,9 +136,9 @@
                      border-no-sec
                      =============================-->
                     <section id="summary" class="section border-no-sec">
-                        <h2 class="greencol">5a. Design for efficient cloud architecture</h2>
+                        <h2 class="greencol">5a. Design for efficient application architecture</h2>
                         
-                        <p>Hosting services on ‘cloud’ can bring efficiencies relative to on-premises infrastructure. However, there are still major environmental impacts that can come from the electricity consumption of servers, energy and/or water used for server cooling and the embodied impacts coming from the manufacture, distribution and disposal of buildings, cooling equipment and servers.</p>
+                        <p>An application architecture describes the patterns and techniques used to design and build an application.</p>
 
                         <h3>Lifecycle phases</h3>
                         <div class="coolthingsdiv">
@@ -149,24 +149,28 @@
 
                         <h3>Actions</h3>
                          
-                         <h4>(i) Design the best fit cloud services</h4>
+                        <h4>(i) Right-size services</h4>
 
-                        <p>This might mean managed services, which can achieve high utilisation and efficiencies through shared resources and simplify the task of updating software.</p>
+                        <p>'Right-sizing' means adjusting the type and amount of computing resources so these match the needs of workloads, without either overprovisoning. This will help ensure that energy consumption is no higher than it needs to be.</p>
 
-                        <h4>(ii) Run workloads in places and at times when low-carbon electricity is available</h4>
+                         <h4>(ii) Reuse common components where possible</h4>
 
-                        <p>Cloud data centres are located in many countries with highly varied electricity grids. If available, move workloads to a hosting provider that uses electricity from low carbon sources like wind, solar, geothermal, hydro, or nuclear.</p>
+                        <p>Adoption of common architectural components and their re-use can bring benefits include increased speed, efficiency and reduced costs.</p>
 
-                        <p>In addition, if possible, design for ‘carbon-aware’, and run workloads that are not time-critical at times when there is low-carbon electricity available at a given location.</p>
-                        
                         <ul class="pro-ul">
                             <li>
-                            <p><a href="https://app.electricitymaps.com/map/" target="_blank" class="link-primary">Climate Impact by Area,</a> Electricity Maps</p>
+                            <p><a href="https://dfe-digital.github.io/architecture/common-components/#common-components" target="_blank" class="link-primary">Common Components</a>, Department for Education</p>
                             </li>
                             <li>
-                            <p><a href="https://carbonintensity.org.uk/" target="_blank" class="link-primary">UK Carbon Intensity Forecast by Region,</a> National Grid ESO</p>
                             </li>
                         </ul>
+
+                        <h4>(iii) If in the cloud, then leverage 'cloud native' design patterns</h4>
+
+                        <p>If our application architecture is in the cloud, then a 'cloud native' approach can be taken. This means that applications or services are specifically designed for and deployed on cloud infrastructure, and can make the most of all the advantages of a modern cloud environment. This can mean scalability, elasticity, reliability and energy efficiency.</p>
+
+                            <p>This may mean moving from 'monoliths' to microservices architecture</p>
+                            <p>Containerization like Kubernetes or Docker</p>
 
                         <div class="nicebox">
                         <p><strong>More detailed guidance on cloud architecture & sustainability</strong></p>
@@ -233,22 +237,32 @@
                      responsive 
                      =============================-->
                     <section id="responsive" class="section">
-                        <h2>5b. Design for optimised on-premise systems</h2>
+                        <h2>5b. Design for efficient data</h2>
 
-                        <p>The goal of this guideline is to set up any on-premises systems that your service uses to be as efficient as possible.</p>
-                        <p>[Detail to be added to this guideline]</p>
-
-                        <h3>Lifecycle phases</h3>
-                        <div class="coolthingsdiv">
-                        <span class="coolthing">Alpha</span>
-                        <span class="coolthing">Public Beta</span>
-                        </div>
+                        <p>Have a strategy to manage data efficiently. Reducing the volume of data that is captured, stored and accessed means reduced use of computing resources, energy and associated carbon emissions.</p>
 
                         <h3>Actions</h3>
-                         
-                         <h4>(i) Run systems at higher utilization to improve efficiency</h4>
 
-                        <h4>(ii) Use well optimised open source libraries or products</h4>
+                        <h4>(i) Avoid collecting information you do not need or has been collected elsewhere, and identify opportunities for data sharing</h4>
+
+                        <p>This will help to avoid unnecessary storage of data that may not be useful or valuable, which will in turn reduce required infrastructure, power, and data transfer. Better sharing of data may mean it only needs to be collected once, saving upon storage usage.</p>
+
+                        <ul class="pro-ul">
+                            <li>
+                            <p><a href="https://www.gov.uk/guidance/make-better-use-of-data/" target="_blank" class="link-primary">Make Better Use of Data</a>, GOV.UK</p>
+                            </li>
+                            <li>
+                            <p><a href="Web Sustainability Guidelines on Responsible Data Practices/" target="_blank" class="link-primary">Web Sustainability Guidelines on Responsible Data Practices</a>, W3C Sustainability Group</p>
+                            </li>
+                        </ul>
+                         
+                        <h4>(ii) Consider data storage</h4>
+
+                        <p>Data should only be stored when absolutely necessary, and when it is stored it should be compressed before storage, especially when it is for long term. Use the right data format, for example Parquet as opposed to CSV, which can have big savings for large data sets.</p>
+
+                        <h4>(iii) Conduct data audits</h4>
+
+                        <p>Review data regularly and ensure unneeded/duplicate data is deleted/compressed/archived. Unneeded or duplicate data takes up space on servers and consumes energy for storage.</p>
 
 
                     </section>
@@ -257,39 +271,26 @@
                      =============================-->
                     <section id="classes" class="section">
 
-                        <h2>5c. Be smart with AI</h2>
+                        <h2>5c. Design for efficient infrastructure</h2>
 
-                        <p>AI may offer us the opportunity to make businesses more resource-efficient, reducing costs, emissions, and waste through monitoring of energy consumption, hardware utilization and data storage. It may also bring environmental benefit through other specific applications that bring environmental benefit, such as analysing data sets to better support services (e.g. satellite or weather data). But AI is also resource-hungry and training models consume large amounts of water and produces a carbon footprint.</p>
+                        <p>Infrastructure architecture focuses on hardware such as servers, network components and storage devices as well as the virtual resources that are used to monitor these physical assets. </p>
 
                         <h3>Actions</h3>
-                         
-                         <h4>(i) Choose the appropriate size model</h4>
 
-                         <p>Choose the appropriate AI model for the service's needs. Small AI models can be trained for a specific task, are cost effective, quick (as there is less data for them to reference) and they can be run on basic hardware (such as a PC or phone.</p>
+                        <h4>(i) Implement serverless architectures to optimise resource usage and reduce overhead</h4>
 
-                         <h4>(ii) Reuse existing models where possible</h4>
+                        <p>?</p>
 
-                        <p>Consider building on an existing model rather than starting from scratch, and use AI to analyse code performance and then tidy to lower environmental impact.</p>
+                        <h4>(ii) Select cloud regions that leverage renewable energy for a lower environmental impact</h4>
 
-                        <h4>(iii) Carefully choose supplier and region</h4>
+                        <p>Cloud data centres are located in many countries with highly varied electricity grids. If available, move workloads to a hosting provider that uses electricity from low carbon sources like wind, solar, geothermal, hydro, or nuclear.</p>
 
-                        <p>Careful selection of the right supplier and location is important. Training models in low-carbon regions or times of day can reduce the carbon footprint. Don't forget about the other environmental impacts of AI, especially water use (but even this can be complex - water use in Scotland will have a different impact to Suffolk, for example).</p>
-
-                         <ul class="pro-ul">
+                        <ul class="pro-ul">
                             <li>
-                            <p><a href="https://www.gov.uk/government/publications/guidance-to-civil-servants-on-use-of-generative-ai/" target="_blank" class="link-primary">Guidance to civil servants on use of generative AI</a>, Cabinet Office</p>
+                            <p><a href="https://app.electricitymaps.com/map/" target="_blank" class="link-primary">Climate Impact by Area,</a> Electricity Maps</p>
                             </li>
                             <li>
-                            <p><a href="https://www.turing.ac.uk/sites/default/files/2023-11/sustainability-in-practice-pt-1.pdf/" target="_blank" class="link-primary">AI Sustainability in Practice, Part One: Foundations for Sustainable AI Projects</a>, Turing Institute</p>
-                            </li>
-                             <li>
-                            <p><a href="https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/ceo-ai-sustainability/" target="_blank" class="link-primary">The CEO’s Guide to Generative AI, ‘Sustainability’</a>, IBM</p>
-                            </li>
-                             <li>
-                            <p><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai/" target="_blank" class="link-primary">Ethics guidelines for trustworthy AI</a>, European Commission</p>
-                            </li>
-                             <li>
-                            <p><a href="https://sustain.algorithmwatch.org/en/" target="_blank" class="link-primary">Guidance on sustainable AI</a>, sustAIn</p>
+                            <p><a href="https://carbonintensity.org.uk/" target="_blank" class="link-primary">UK Carbon Intensity Forecast by Region,</a> National Grid ESO</p>
                             </li>
                         </ul>
 
