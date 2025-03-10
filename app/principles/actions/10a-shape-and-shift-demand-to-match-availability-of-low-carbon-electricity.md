@@ -34,12 +34,6 @@ Shifting workload location means moving workloads from one physical location to 
 #### Environmental benefit: 
 Making use of lower-carbon grid mix reduces the carbon footprint of workloads. 
 
-{% from "govuk/components/details/macro.njk" import govukDetails %}
-
-{{ govukDetails({
-  summaryText: "Read more",
-  text: "Some placeholder text"
-}) }}
 * * *
 
 ###  (ii) Shape demand based on electricity supply
@@ -49,9 +43,5 @@ Making use of lower-carbon grid mix reduces the carbon footprint of workloads.
 #### Environmental benefit: 
 Doing more work when the grid is greener saves on carbon.
 
-{{ govukDetails({
-  summaryText: "Read more",
-  text: "Some placeholder text"
-}) }}
 
 * * *
