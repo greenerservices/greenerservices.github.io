@@ -1,11 +1,11 @@
 ---
 homepage: false
 layout: main
-title: 4a. Select suppliers who can support your Greening Government Commitment goals
+title: 3b. Measure the impact of your team
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 4a. Select suppliers who can support your Greening Government Commitment goals
-  parent:  4. Select partners who can support your greener goals
+  key: 3b. Measure the impact of your team
+  parent:  3. Measure and publish the impact of the service
 ---
 A team produces environmental impact from their use of technology, travel and working practices.
 * * *
