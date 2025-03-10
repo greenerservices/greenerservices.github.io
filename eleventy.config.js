@@ -27,8 +27,7 @@ module.exports = function(eleventyConfig) {
       input: 'app',
       // Use layouts from the plugin
       includes: '_layouts'
-    },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/greenerservices.github.io/' : '/'
+    }
   }
 
   };
