@@ -1,0 +1,99 @@
+$govuk-font-family: system-ui, sans-serif;
+
+
+//Header customer styles
+.govuk-header {
+    background: #0b3d23 !important;
+    //border-top: 20px solid #0b3d23 !important;
+    padding-top: 10px !important;
+    border-bottom: 0 !important;
+  }
+
+.govuk-header__container {
+    border-bottom:0 !important;
+    margin-bottom: 0px !important;
+}
+
+.govuk-header__containe:first-of-type {
+    border-bottom:0 !important;
+    margin-bottom: 10px !important;
+}
+
+.govuk-header__container:last-child {
+    background-color: #eaeaea !important;
+    margin-bottom: 0px !important;
+}
+
+.govuk-service-navigation {
+    border-bottom: 0 !important;
+    background-color: #1e5a37 !important;
+    
+}
+
+.govuk-service-navigation__toggle:not(:active):not(:focus) {
+    color: #FFFFFF !important;
+}
+
+.govuk-service-navigation__link:not(:active):not(:focus) {
+    color: #FFFFFF !important;
+}
+
+.govuk-service-navigation__item {
+    position: relative !important;
+    margin: 0 !important;
+    border: 0 solid #3c9263 !important;
+}
+
+@media (min-width: 40.0625em) {
+    .govuk-service-navigation__item--active {
+       padding-bottom: 0px !important;
+        border-bottom-width: 5px !important;
+        font-weight: 700 !important;
+    }
+    .govuk-service-navigation__item {
+        padding: 10px !important;
+    }
+}
+
+@media (max-width: 40.0525em) {
+    .govuk-service-navigation__item {
+        margin-bottom: 10px !important;
+    }
+    .govuk-service-navigation__item--active {
+        margin-left: -15px !important;
+        padding-left: 10px !important;
+        border-left-width: 5px !important;
+        font-weight: 700 !important;
+    }
+}
+
+.govuk-service-navigation__item:not(:last-child), .govuk-service-navigation__service-name:not(:last-child) {
+    margin-right: 20px !important;
+}
+
+.govuk-phase-banner {
+ padding-top: 0 !important;
+ border-bottom: 0 !important;
+}
+
+
+
+.app-prose-scope h1 {
+    max-width: 100% !important;
+  }
+  .app-prose-scope h2 {
+    max-width: 100% !important;
+  }
+  .app-prose-scope h3 {
+    max-width: 100% !important;
+  }
+  .app-prose-scope h4,
+  .app-prose-scope h5,
+  .app-prose-scope h6,
+  .app-prose-scope p,
+  .app-prose-scope ul:not([class]),
+  .app-prose-scope ol,
+  .app-prose-scope img,
+  .app-prose-scope video {
+     max-width: 100% !important; 
+  }
