@@ -14,21 +14,13 @@ These go beyond carbon to include things like:
 
 • freshwater use
 • resource depletion
-• ozone depletion
 • human and ecosystem toxicity
+• land use change (including deforestation)
+• biodiversity loss
 
+Applying the principles of the 'circular economy' to hardware itself (sharing, leasing, re-using, repairing and refurbishing) help reduce the need for the manufacture of new equipment and save on the associated environmental impacts.
 
-deforestation
-bio-diversity loss
-land use change
-
-Applying 'circular economy principles' to hardware can include:
-sharing
-leasing
-reusing, repairing and refurbishing
-recycling
-These approaches help reduce the environmental impacts of manufacturing new kit. 
-Cloud, AI and software all need hardware. Doing less in the cloud or using less AI can indirectly reduce the need for more hardware.
+At the same time, Cloud, AI and software all need hardware. Doing less in the cloud or using less AI can indirectly reduce the need for more hardware.
 
 
 <div class="govuk-inset-text app-wcag-callout">
