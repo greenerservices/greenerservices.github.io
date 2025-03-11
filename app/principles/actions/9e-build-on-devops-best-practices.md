@@ -10,9 +10,9 @@ eleventyNavigation:
 
 DevOps is a an approach that combines software development practices and operations to improve collaboration and software delivery. 
 
-### Lead Roles
+### Likely Lead Roles
 
-DevOps Engineer, Solution architect
+DevOps Engineer, solution architect
 
 * * *
 

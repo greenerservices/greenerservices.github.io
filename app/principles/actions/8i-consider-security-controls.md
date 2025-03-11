@@ -20,7 +20,7 @@ Security architect
 
 [8i. (i) Optimise backups and redundancies](#(ii)-optimise-backups-and-redundancies)
 [8i. (ii) Choose the right cryptographic algorithms](#(iii)-choose-the-right-cryptographic-algorithms)
-[8i. (iii) Consider patch management](#(iv)-consider-patch-management)
+[8i. (iii) Consider optimal patch management](#(iv)-consider-optimal-patch-management)
 [8i. (iv) Consider timing of security scans and updates](#(v)-consider-timing-of-security-scans-and-updates)
 [8i. (v) Calculate the emissions of security controls](#(vi)-calculate-the-emissions-of-security-controls)
 
@@ -46,10 +46,12 @@ Reduced data storage.
 
 ###  (ii) Choose the right cryptographic algorithms
 
-Cryptographic algorithms are formulas that encrypt and decrypt data. Consider quantum computing and its impact on cryptographic algorithms.
+Cryptographic algorithms are formulas that encrypt and decrypt data. Their energy consumption varies depending on factors like their complexity, application, and computing environment or platform.
+
+Where possible, choose cryptographic algorithms that provide the necessary level of security whilst using no more energy than necessary.
 
 #### Environmental benefit: 
-Reduce resource usage.
+Choice of algorithms can save on energy consumption
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -59,7 +61,7 @@ Reduce resource usage.
 }) }}
 * * *
 
-###  (iii) Consider patch management
+###  (iii) Consider optimal patch management
 
 Optimize security updates to minimize unnecessary software downloads and system reboots.
 
@@ -76,7 +78,7 @@ Save on resource consumption.
 
 ###  (iv) Consider timing of security scans and updates
 
-Schedule intensive security scans and updates during off-peak hours to take advantage 
+Schedule intensive security scans and updates during off-peak hours to take advantage of lower-carbon electricity.
 
 #### Environmental benefit: 
 Reduce carbon intensity of electricity used.
@@ -91,7 +93,7 @@ Reduce carbon intensity of electricity used.
 
 ###  (v) Calculate the emissions of security controls
 
-Calculate the emissions of security controls to identify potential reductions.
+Calculate the emissions of security controls allows us to identify potential reductions.
 
 #### Environmental benefit: 
 Identify opportunities to reduce resource consumption.
