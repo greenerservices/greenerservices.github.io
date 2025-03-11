@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-Digital security controls are measures that organisations implement to protect their data and systems from cyber threats. 
+Digital security controls are measures that organisations implement to protect their data and systems from cyber threats. Security is one area where there may be trade-offs with sustainability that need to be negotiated. 
 
 ### Likely Lead Roles
 
@@ -76,7 +76,7 @@ Save on resource consumption.
 
 ###  (iv) Consider timing of security scans and updates
 
-Schedule intensive security scans and updates during off-peak hours to balance energy loads.
+Schedule intensive security scans and updates during off-peak hours to take advantage 
 
 #### Environmental benefit: 
 Reduce carbon intensity of electricity used.
@@ -94,7 +94,7 @@ Reduce carbon intensity of electricity used.
 Calculate the emissions of security controls to identify potential reductions.
 
 #### Environmental benefit: 
-Reduce resource comsumption. 
+Identify opportunities to reduce resource consumption.
 
 {{ govukDetails({
   summaryText: "Read more",

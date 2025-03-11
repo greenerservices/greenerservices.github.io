@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-Build on the good practice guidance described in Principle 8 'Design for greener architecture, data and security' and consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Develop efficient software by building on the good practice for design described in Principle 8 'Design for greener architecture, data and security'. Consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
 
 ### Likely Lead Roles
 

@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-The choice of software languages and frameworks can impact efficiency and energy consumption. 
+The choice of software languages and frameworks for a service can impact efficiency and energy consumption. 
 
 ### Likely Lead Roles
 
@@ -32,7 +32,7 @@ There are differences between the energy consumption of programming languages. C
 • if the language is a ‘compiled’ one
 
 #### Environmental benefit: 
-Choosing an energy efficient programming language cuts consumption.
+Choosing an energy efficient programming language can cut consumption.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
