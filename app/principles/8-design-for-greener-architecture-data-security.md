@@ -14,7 +14,7 @@ Greener approaches to architecture, data and security maximise efficiency and re
   <p class="govuk-body">The actions under this principle can generally be applied to on-premise systems as well as on the cloud.</p>
 </div>
 
-### Likley lead roles
+### Likely lead roles
 
 Technical architect, solution architect, network architect, data architect, security architect, platform team
 
