@@ -7,19 +7,10 @@ eleventyNavigation:
   key: 5a. Take a green approach to AI used by the service
   parent:  5. Take a greener approach to AI and software tools
 ---
-AI can help meet sustainability goals. It might help increase efficiency by reducing costs, emissions and waste by monitoring:
 
-• energy consumption
-• hardware use
-• data storage
+The use of Artificial Intelligence on a service could include analysing datasets, such as satellite or weather data. It could also generative AI to create new content, ushc as text.
 
-AI might also help analyse data to support services, for example satellite of weather data.
-
-But AI is also resource hungry. For example, training models use large amounts of water. The AI Playbook highlights that:
-
-• the resource consumption used by some AI technologies can present risks
-• it is usually more sustainable to use an appropriate pre-trained AI model than to train your own.
-• generative AI can be expensive, it should not be used for tasks that can be done by other technologies
+These technologies may bring about benefits as well as costs from an environmental sustainability standpoint. 
 
 * * *
 
@@ -35,6 +26,8 @@ But AI is also resource hungry. For example, training models use large amounts o
 ###  (i) Be clear on the use case for AI
 
 Be clear on the use case for GenAI/LLMs and whether an alternative non-generative AI approach e.g. image recognition, natural language processing would be more appropriate.
+
+Large Language Models (LLMs) are a type of generative AI that create text.
 
 [AI Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#using-ai-safely-and-responsibly): 'Assess the environmental impact of training and/or deploying your AI system before commencing development. Consider whether the impact represents a reasonable trade-off between benefits and energy consumption, and whether a less energy-intensive system might be able to achieve the same or similar results.'   
 

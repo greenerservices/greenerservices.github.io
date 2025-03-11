@@ -7,7 +7,15 @@ eleventyNavigation:
   key: 5b. Take a green approach to AI tools used by the team
   parent:  5. Take a greener approach to AI and software tools
 ---
-AI tools can support productivity for teams. For example, AI-augmented development can help software engineers design, code and test applications. This can be an a cost effective way to help teams build software faster.
+AI tools can support productivity for teams. 
+
+AI can be used to monitor:
+
+• energy consumption
+• hardware use
+• data storage
+
+For example, AI-augmented development can help software engineers design, code and test applications. This can be an a cost effective way to help teams build software faster.
 
 * * *
 

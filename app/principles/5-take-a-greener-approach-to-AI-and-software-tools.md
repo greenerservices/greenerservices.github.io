@@ -7,12 +7,15 @@ eleventyNavigation:
   key: 5. Take a greener approach to AI and software tools
   parent: Principles
 ---
-AI can have a large carbon footprint. The primary impacts include:
 
-• high energy consumption due to large data centres
+Artificial Intelligence (AI) can be used in ways that help deliver a range of environmental benefits. For example, it might allow us to make processes more efficient, or identify opportunities to reduce waste.
+
+However, AI comes at an environmental cost. This includes things like:
+
+• high energy consumption for the training of models
 • large water use for cooling
+• potential pollution from the mining of raw materials for AI chips.
 • discarded hardware creating electronic waste
-• potential pollution from the mining of raw materials for AI chips
 
 ## Actions
 [5a. Take a green approach to AI used by the service](/principles/actions/5a-take-a-green-approach-to-ai-used-by-the-service)
