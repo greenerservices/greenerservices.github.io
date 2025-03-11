@@ -8,18 +8,18 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-The approaches we take to the storage and management of data can have significant implications for energy usage.
+Services should take approaches to the organisation and storage of data that minimise environmental impact by optimising energy usage, reducing waste, and utilising efficient technologies.
 
 ### Likely Lead Roles
 
-Solution architect, data architect
+Data architect, solution architect
 
 * * *
 
 ## Sub-actions
 
 [8h. (i) Use appropriate storage tiers for different data needs](#(i)-use-appropriate-storage-tiers-for-different-data-needs)
-[8h. (ii) Choose the right data format](#(ii)-create-component-libraries)
+[8h. (ii) Choose the right data format](#(ii)-choose-the-right-data-format)
 [8h. (iii) Use data deduplication methods for storage and backup](#(iii)-use-data-deduplication-methods-for-storage-and-backup)
 [8h. (iv) Apply best practice for database indexing](#(iv)-apply-best-practice-for-database-indexing)
 [8h. (v) Implement automated rules for archiving or deleting data](#(v)-implement-automated-rules-for-archiving-or-deleting-data)
@@ -33,7 +33,7 @@ Solution architect, data architect
 
 'Storage tiers' describe different levels of access based on how often data is used. 
 
-These tiers are often referred to by 'temperature': 'hot' for high-performance, fast access storage for data that accessed often, and 'cold' for slower, cheaper storage options for data accessed less often.
+These tiers are often referred to by 'temperature': 'hot' for high-performance, fast access storage for data that needs to be accessed often, and 'cold' for slower, cheaper storage options for data accessed less often.
 
 #### Environmental benefit: 
 Moving rarely accessed data to lower cost tiers reduces energy consumption.
@@ -42,22 +42,22 @@ Moving rarely accessed data to lower cost tiers reduces energy consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Choose the right data format
 
-Different formats for data storage have different levels of compression and efficiency.
+Different formats for data storage offer different levels of compression and efficiency.
 
-For example, Parquet is a better way to store large datasets than CSV. It uses less space, and is faster and more efficient.
+For example, Parquet is a better way to store large datasets than Comma Separated Values (CSV). It uses less space, and is faster and more efficient.
 
 #### Environmental benefit: 
 Choosing more efficient data format reduces storage for large data sets.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 
@@ -74,23 +74,22 @@ Removing redundant data saves on storage and associated energy consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (iv) Apply best practice for database indexing 
 
-A database index is a structure that improves the speed of data retrieval. 
+A database index is a structure that improves the speed of data retrieval and optimises database performance. 
 
 #### Environmental benefit: 
-Optimise database performance through a series of practices.
+Optimised databases maximises efficency
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
-
 
 * * *
 
@@ -105,20 +104,20 @@ Reducing data storage saves on energy consumption
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (vi) Fit the data formatted to the expected query patterns  
 
-Placeholder
+Query patterns are reusable templates for structuring queries to solve recurring problems efficiently.
 
 #### Environmental benefit: 
-To optimise required storage and compute per query. 
+Optimise required storage and compute per query. 
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 
@@ -126,18 +125,18 @@ To optimise required storage and compute per query.
 
 ###  (vii) Create permissions and access plans that minimise the amount of data load per user
 
-Create permissions/access plans that minimise the amount of data load per user based on their actual needs.
+Create permissions and access plans that minimise the amount of data load per user based on their actual needs.
 
-Move away from access model per service/product to be built, and instead data level service created that creates access across all services based on data need per role. This brings benefit in terms of re-use of permission model, fewer touchpoints from service desks (tickets, actions, document required), tighter compliance to GDPR, fewer loads on pages for data they dont need.
+Move away from access model per service/product to be built, and instead data level service created that creates access across all services based on data need per role. This brings benefit in terms of re-use of permission model, fewer touchpoints from service desks (tickets, actions, document required), tighter compliance to GDPR and fewer loads on pages for data they dont need.
 
 #### Environmental benefit: 
-Optimise required storage and compute per query 
+Reducing data load per user saves on transfer and energy consumption.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -146,11 +145,11 @@ Optimise required storage and compute per query
 Making large data sets consistent across different regions requires cost and effort. Consider if a project needs high levels of consistency.
 
 #### Environmental benefit: 
-Optimise required storage and compute per query 
+The costs associated with making data consistent can be saved where not required.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 

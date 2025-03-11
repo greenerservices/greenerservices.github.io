@@ -7,11 +7,13 @@ eleventyNavigation:
   key: 8g. Identify data to be collected
   parent:  8. Design for greener architecture, data and security
 ---
-Placeholder
+'Data is distinct pieces of information. When designing and running services you should make appropriate use of data to inform your choices and improve the experience for users.' GOV.UK Service Manual, [Designing With Data](https://www.gov.uk/service-manual/design/designing-with-data-an-introduction/)
 
-## Lead Roles
+Identifying the data that a service needs to collect has environmental impact implications as that data will have to be stored.
 
-Technical architect
+### Likely Lead Roles
+
+Data architect, technical architect
 
 * * *
 
@@ -33,19 +35,19 @@ Reducing data storage cuts required infrastructure, power and data transfer.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Identify opportunities for data sharing
 
-Sharing data might mean it only needs to be collected once, saving on storage.
+Sharing data with other services might mean it only needs to be collected once, saving on storage.
 
 #### Environmental benefit: 
 Reducing data storage cuts required infrastructure, power and data transfer.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
