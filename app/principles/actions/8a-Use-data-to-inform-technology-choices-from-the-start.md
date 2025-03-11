@@ -10,7 +10,7 @@ eleventyNavigation:
 
 The right data can allow us to embed environmental sustainability into technology decisions from the start, saving on the impacts of adapting approaches later in a project.
 
-### Lead Roles
+### Likely Lead Roles
 
 Solution architect, technical architect
 
@@ -18,37 +18,33 @@ Solution architect, technical architect
 
 ## Sub-actions
 
-[8a. (i) Forecast the environmental impact of services and workloads at the solution architecture design stage](#(i)-forecast-the-environmental-impact-of-services-and-workloads-at-the-solution-design-stage)
-[8a. (ii) Design for monitoring upfront ](#(ii)-design-for-monitoring-upfront)
+[8a. (i) Forecast the environmental impact of services and workloads at the solution architecture design stage](#(i)-forecast-the-environmental-impact-of-services-at-the-solution-design-stage)
+[8a. (ii) Design for monitoring upfront ](#(ii)-design-for-service-monitoring-upfront)
 * * *
 
-###  (i) Forecast the environmental impact of services and workloads at the solution architecture design stage
+###  (i) Forecast the environmental impact of services at the solution architecture design stage
 
-Forecast the impact of services and workloads at the solution architecture design stage.
-
-This includes their carbon footprint but is not limited to that. You should use this to inform technology choices and design decisions.  
+Where possible, forecast the environmental impact of service workloads at the solution architecture design stage. You should use this to inform technology choices and design decisions.  
 
 #### Environmental benefit: 
-Placeholder
+Insight into the environmental impacts of technology choices empowers a greener choice from the start.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
-###  (ii) Design for monitoring upfront
+###  (ii) Design for service monitoring upfront
 
-Build in consumption and emissions monitoring from the start of the project. You should tag resources where possible.
-
-Think of 'measurable by design' like 'secure by design'. Add energy measurability upfront instead of adding it later.
+Build in consumption and emissions monitoring from the start of the project, tagging resources where possible. We could call this a 'measurable by design' mindset. 
 
 #### Environmental benefit: 
-Placeholder
+Adding energy measurability upfront instead of adding it later.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}

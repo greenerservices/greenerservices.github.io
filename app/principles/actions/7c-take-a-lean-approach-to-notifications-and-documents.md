@@ -24,7 +24,7 @@ Interaction designer, developer, content designer
 
 ###  (i) Take a lean approach to notifications
 
-Notifications like emails have a carbon footprint. This can increase when they have attachments. For services with many users, these impacts can quickly mount.
+Notifications like emails have a carbon footprint. This can increase when they have attachments. For services with many users these impacts can quickly mount.
 
 Take a lean approach to notifications by:
 
@@ -45,7 +45,7 @@ These approaches can help reduce data transfer and associated energy consumption
 
 ###  (ii) Choose lightweight publishing formats
 
-Document format choices can impact file sizes and data transfer. For example, the HTML publishing format has lower file sizes than PDFs.
+Choices of format for documents can impact file sizes and data transfer. For example, the HTML publishing format has lower file sizes than PDFs.
 
 #### Environmental benefit: 
 Using smaller documents sizes mean less data transfer and energy use.

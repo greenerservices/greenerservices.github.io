@@ -18,7 +18,7 @@ Service designer, interaction designer, content designer, developer
 [7a. Design well paced and successful user journeys](/principles/actions/7a-design-for-well-paced-and-successful-user-journeys)
 [7b. Design lightweight digital pages](/principles/actions/7b-design-lightweight-digital-pages)
 [7c. Take a lean approach to notifications and documents](/principles/actions/7c-take-a-lean-approach-to-notifications-and-documents)
-[7d. Design to minimise travel, printing and postage](/principles/actions/7d-design-to-minimise-travel,-printing-and-postage)
+[7d. Consider the need for any travel, printing and postage](/principles/actions/7d-consider-the-need-for-any-travel,-printing-and-postage)
 
 * * *
 
