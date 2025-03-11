@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  7. Design for greener user journeys across all channels
 ---
 
-The size of webpages affects the data that is transferred to a user device. Data transfer has implications for electricity consumption. Lightweight pages have environmental, general usability and inclusivity benefits.
+The size of webpages impacts the data that needs to be stored and then transferred to an end user device, which in turn has implications for electricity consumption. Lightweight pages bring general usability and inclusivity benefits alongside the environmental.
 
 ### Lead Roles
 
@@ -27,10 +27,10 @@ Interaction designer, developer, content designer
 
 A page weight budget is an upper limit of the size of a webpage, measured in bytes.
 
-Page weight budgets encourage close consideration of what is essential for users with small screen sizes or low bandwidth.   
+Budgets encourage close consideration of what is essential for users with small screen sizes or low bandwidth.   
 
 #### Environmental benefit: 
-Setting an limit on page sizes helps prevent bloat and save on data transfer and energy usage.
+Setting an limit on page sizes helps prevent bloat and saves on data transfer and energy usage.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 

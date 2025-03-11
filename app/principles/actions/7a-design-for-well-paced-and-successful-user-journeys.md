@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  7. Design for greener user journeys across all channels
 ---
 
-Design to maximise the number of users that complete their task on a service first time round.
+There are a number of approaches we can adopt to increase the likelihood that service journeys are resource efficient and that users achieve their goal at the first attempt.
 
 When users fail to complete their tasks on a service, this creates 'failure demand'. More resources are needed for follow up enquiries and providing user support.
 
@@ -23,7 +23,7 @@ Service designer, interaction designer, content designer
 [7a. (i) Use established service and design patterns](#(i)-use-established-service-and-design-patterns)
 [7a. (ii) Use progessive enhancement](#(ii)-use-progressive-enhancement)
 [7a. (iii) Consider pace of service and response times](#(iii)-consider-the-pace-of-the-service)
-[7a. (iv) Consider appropriate service signposting and search engine optimisation](#(iv)-consider-appropraite-service-signposting-and-search-engine-optimisation)
+[7a. (iv) Consider appropriate service signposting and search engine optimisation](#(iv)-consider-appropriate-service-signposting-and-search-engine-optimisation)
 
 * * *
 
@@ -31,8 +31,8 @@ Service designer, interaction designer, content designer
 
 Patterns can work at two levels with services:
 
-- A design pattern is a general solution to a common problem in software design
-- A service pattern provides a solution to common service design problem or user task
+• A design pattern is a general solution to a common problem in software design
+• A service pattern provides a solution to common service design problem or user task
 
 #### Environmental benefit: 
 Common design and service patterns are familiar for users. They help users quickly navigate and complete tasks.
@@ -45,9 +45,9 @@ Common design and service patterns are familiar for users. They help users quick
 }) }}
 * * *
 
-###  (ii) Use progessive enhancement
+###  (ii) Use progressive enhancement
 
-Progressive enhancement is a way of building websites and pages where base functionality and content works in html alone. Enhancements are then built on top of this base.
+Progressive enhancement is a way of building websites and pages where base functionality and content works in HyperText Markup Language (HTML) alone. Enhancements are then built on top of this base.
 
 #### Environmental benefit: 
 Websites using progressive enhancement perform well across different devices and network conditions. This helps users complete their journeys successfully.
@@ -79,12 +79,10 @@ Services with a slower pace often require fewer resources to deliver.
 
 Search engine optimisation (SEO) is a key factor in helping users find the entry points for services they need. A page with good SEO is a webpage that is optimized and will ultimately rank well on search engine results pages (SERPs) when users search for related terms. 
 
-Once they are on a service, there may be times when Understand when to signpost users to other content, for example guidance or related services.
+Once they are on a service, there may be times when users need to read external content, such as guidance or related services. Clear signposting to this content can help ensure that users do not become stuck. 
 
 #### Environmental benefit: 
-Good SEO helps users find the pages and services they need quickly, thereby reducing resource consumption. 
-
-Content that is easy to understand helps users quickly achieve their goals. This will reduce energy usage.
+Good SEO helps users find the pages and services they need quickly, and content that is easy to understand helps users quickly achieve their goals, thereby reducing resource consumption. 
 
 {{ govukDetails({
   summaryText: "Read more",
