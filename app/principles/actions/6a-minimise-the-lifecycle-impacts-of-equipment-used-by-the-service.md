@@ -7,8 +7,7 @@ eleventyNavigation:
   key: 6a. Minimise the lifecycle impact of equipment used by the service
   parent:  6. Take a greener approach to hardware
 ---
-Increasing the lifespan of service end and user devices reduces environmental impacts. Use remanufactured or recycled technology where possible.
-
+There are a number of approaches we can take to reduce the environmental impacts of any equipment used by the service.
 * * *
 
 ## Sub-actions
@@ -21,10 +20,10 @@ Increasing the lifespan of service end and user devices reduces environmental im
 
 ###  (i) Use remanufactured equipment where possible
 
-Use remanufactured or recycled technology if your service purchases equipment or infrastructure. This reduces the need to purchase new.
+Use remanufactured or recycled technology if your service purchases equipment or infrastructure. 
 
 #### Environmental benefit: 
-Reduces the impacts of purchasing new.
+Reduces the impacts of purchasing new hardware.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -36,7 +35,7 @@ Reduces the impacts of purchasing new.
 
 ###  (ii) Maximise the lifespan of hardware
 
-Maintain and manage equipment to increase the lifespan of hardware. This reduces the need for replacements.
+Maintain and manage equipment to increase its lifespan.
 
 #### Environmental benefit: 
 Reduces the impacts of replacing hardware.
@@ -50,9 +49,7 @@ Reduces the impacts of replacing hardware.
 
 ###  (iii) Have a plan for end of life
 
-Make a plan to retire all service equipment. 
-
-When assessing options for disposal, consider: 
+Make a plan to retire all service equipment in the lowest-impacting way possible. When assessing options for disposal, consider: 
 
 • any sustainable disposal options, such as buy-back schemes
 • reusing equipment on other projects or programmes

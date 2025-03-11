@@ -8,9 +8,7 @@ eleventyNavigation:
   parent: Principles
 ---
 
-Hardware has very significant ‘embodied’ environmental impacts coming from the sourcing of raw materials, processing, manufacture, distribution and disposal of equipment at the end of it's life.
-
-These go beyond carbon to include things like:
+Hardware has very significant ‘embodied’ environmental impacts coming from the sourcing of raw materials, processing, manufacture, distribution and disposal of equipment at the end of it's life. These go beyond carbon to include things like:
 
 • freshwater use
 • resource depletion
@@ -18,13 +16,10 @@ These go beyond carbon to include things like:
 • land use change (including deforestation)
 • biodiversity loss
 
-Applying the principles of the 'circular economy' to hardware itself (sharing, leasing, re-using, repairing and refurbishing) help reduce the need for the manufacture of new equipment and save on the associated environmental impacts.
-
-At the same time, Cloud, AI and software all need hardware. Doing less in the cloud or using less AI can indirectly reduce the need for more hardware.
-
+Applying the principles of the 'circular economy' to hardware itself (by sharing, leasing, re-using, repairing and refurbishing) helps reduce the need for the manufacture of new equipment and saves on the associated environmental impacts.
 
 <div class="govuk-inset-text app-wcag-callout">
-  <p class="govuk-body">These actions can generally be applied to on-premises systems as well as cloud.</p>
+  <p class="govuk-body">Cloud services, AI and software all need hardware to run. Doing less of these things can indirectly reduce the need for more hardware.</p>
 </div>
 
 ## Actions
@@ -39,11 +34,3 @@ At the same time, Cloud, AI and software all need hardware. Doing less in the cl
 <p class="govuk-body"><strong class="govuk-tag">
   Hardware
 </strong></p>
-
-* * *
-
-## Further reading
-
-The 
-
-

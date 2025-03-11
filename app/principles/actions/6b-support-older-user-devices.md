@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  6. Take a greener approach to hardware
 ---
 
-The manufacture and distribtuion of end user devices is a very significant source of environmental impact.
+The manufacture and distribtuion of end user devices is a very significant source of environmental impact. Ensure the service is doing all it can to suppor the continued use of older end user devices.
 
 * * *
 
@@ -28,11 +28,11 @@ Encourage service availability on existing devices by:
 • using lightweight technologies and frameworks
 
 #### Environmental benefit: 
-Reduce the environmental impacts coming from users replacing devices as far as possible.
+Reduces the environmental impacts coming from users replacing devices as far as possible.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
