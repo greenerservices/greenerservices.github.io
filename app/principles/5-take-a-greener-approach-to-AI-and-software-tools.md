@@ -18,8 +18,8 @@ However, AI comes at an environmental cost. This includes things like:
 • discarded hardware creating electronic waste
 
 ## Actions
-[5a. Take a green approach to AI used by the service](/principles/actions/5a-take-a-green-approach-to-ai-used-by-the-service)
-[5b. Take a green approach to AI tools used by the team](/principles/actions/5b-take-a-green-approach-to-ai-tools-used-by-the-team)
+[5a. Take a green approach to AI used by the service](/principles/actions/5a-take-a-green-approach-to-AI-used-by-the-service)
+[5b. Take a green approach to AI tools used by the team](/principles/actions/5b-take-a-green-approach-to-AI-tools-used-by-the-team)
 [5c. Use greener software tools](/principles/actions/5c-use-greener-software-tools)
 
 * * *
