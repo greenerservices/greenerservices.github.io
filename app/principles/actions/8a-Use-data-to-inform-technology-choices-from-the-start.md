@@ -4,7 +4,7 @@ layout: main
 title: 8a. Use data to inform technology choices from the start
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 8b. Use data to inform technology choices from the start
+  key: 8a. Use data to inform technology choices from the start
   parent:  8. Design for greener architecture, data and security
 ---
 
@@ -42,7 +42,7 @@ Insight into the environmental impacts of technology choices empowers a greener 
 Build in consumption and emissions monitoring from the start of the project, tagging resources where possible. We could call this a 'measurable by design' mindset. 
 
 #### Environmental benefit: 
-Adding energy measurability upfront instead of adding it later.
+Adding energy measurability upfront empowers a team to optimise processes.
 
 {{ govukDetails({
   summaryText: "Read more",

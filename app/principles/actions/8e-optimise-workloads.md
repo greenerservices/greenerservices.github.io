@@ -8,7 +8,9 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-Optimising workloads minimises resource consumption. Optimising network traffic and reducing bandwidth minimises carbon emissions from networking equipment.
+A workload is a service, application, or process that uses resources like storage, memory, and computing power
+
+Optimising workloads minimises resource consumption. 
 
 
 ### Lead Roles
@@ -34,6 +36,6 @@ Energy efficient compute means less resources consumed.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *

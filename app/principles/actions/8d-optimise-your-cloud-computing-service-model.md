@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-A service model is the way a cloud provider delivers services to users.
+A service model is the way a cloud provider delivers services to users. 
 
 ### Likely lead Roles
 
@@ -20,7 +20,7 @@ Technical architect, platform team
 
 [8d. (i) Move from rented Infrastructure to Platform and Serverless solutions where appropriate](#(i)-move-from-rented-infrastructure-to-platform-and-serverless-solutions-where-appropriate)
 [8d. (ii) Choose the greenest instance type or stock keeping unit for compute and storage](#(ii)-choose-the-greenest-instance-type-or-stock-keeping-unit-for-compute-and-storage)
-[8d. (iii) Design workloads for portability to optimise resource efficiency and sustainability](#(iii)-design-workloads-for-portability-to-optimise-resource-efficiency-and-sustainability)
+[8d. (iii) Design workloads for portability to take advantage of renewable electricity availability](#(iii)-design-workloads-for-portability-to-take-advantage-of-renewable-electricity-availability)
 
 * * *
 
@@ -37,34 +37,34 @@ Serverless architectures allow flexibility, scalability and higher efficiency.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Choose the greenest instance type or stock-keeping unit for compute and storage
 
-Placeholder
+A cloud instance type is a virtual server in a cloud computing environment that is designed for specific workloads. Choose an instance type that best aligns with your workload needs.
 
 #### Environmental benefit: 
-Placeholder
+Efficient instance types will lead to reduced energy consumption
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 * * *
 
-###  (iii) Design workloads for portability to optimise resource efficiency and sustainability
+###  (iii) Design workloads for portability to take advantage of renewable electricity availability
 
-Designing for portability allows you to move application and data between cloud environments. This includes moving them between public and private cloud, or between different providers.
+Designing for portability allows you to move application and data between cloud environments. This includes moving these between public and private cloud, or between different providers.
 
 #### Environmental benefit: 
 Allows workloads to run in different data centres when low carbon electricity is available.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 

@@ -240,7 +240,7 @@ This sub-action is being implemented on some projects.
 Asynchronous patterns and transactions allow tasks to run independently of one-another. 
 
 #### Environmental benefit: 
-Enables workloads to run when grid is greener.
+Enables workloads to be flexible and run when grid is greener.
 
 {{ govukDetails({
   summaryText: "Read more",

@@ -19,7 +19,7 @@ Technical architect
 ## Sub-actions
 
 [8f. (i) Compress data for transit](#(i)-compress-data-for-transit)
-[8f. (ii) Enable consumption of data from primary source](#(ii)-enable-comsumption-of-data-from-primary-source)
+[8f. (ii) Enable consumption of data from primary source](#(ii)-enable-consumption-of-data-from-primary-source)
 [8f. (iii) Use efficient protocols](#(iii)-use-efficient-protocols)
 [8f. (iv) Utilise edge computing](#(iv)-utilise-edge-computing)
 
@@ -36,20 +36,20 @@ Compressing data in transit reduces payload sizes, helping reduce network load a
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Enable consumption of data from primary source
 
-Placeholder
+Consuming data from its primary source means accessing data from where it was first generated. This means we can access the most up-to-date information without the need for any intermediary processing or transformation.
 
 #### Environmental benefit: 
 Reduces data processing, storage  and network transmission energy, leading to lower carbon emissions and improved resource efficiency.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 
@@ -64,7 +64,7 @@ Efficient protocols help reduce energy-associated emissions.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
 
@@ -79,6 +79,6 @@ Processing data closer to the user reduces network load and energy consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}

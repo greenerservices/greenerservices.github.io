@@ -14,11 +14,9 @@ Using and re-using common architectural components can help:
 • reduce costs
 • increase development speed
 
-## Lead Roles
+### Likely lead roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Technical architect
-</strong></p>
+Technical architect
 
 * * *
 
@@ -40,7 +38,7 @@ Reduce resource usage by reusing components in different applications
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -53,6 +51,6 @@ Save on resource consumption coming from developing components from scratch.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 
 }) }}
