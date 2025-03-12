@@ -8,11 +8,10 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
+Choose efficient approaches to running software tests.
 
-Choose efficient approaches to testing. 
-
-### Lead Roles
-Developer
+### Likely Lead Roles
+QA & testing, developer
 
 * * *
 
@@ -36,12 +35,11 @@ Reduced resource consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Test designs on representative devices and platforms
-
 Test design on different platforms and devices, including older devices. This can identify inefficiencies.
 
 #### Environmental benefit: 
@@ -49,21 +47,21 @@ Identifying inefficiencies can help reduce energy demands.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 
 * * *
 
 ### (iii) Run tests in parallel
 
-Running tests in parallel uses resources for a shorter time. Consider running tests when the grid is greener.
+Running tests in parallel uses resources for a shorter time. Consider running tests when the electricity grid is greener.
 
 #### Environmental benefit: 
 Using resources for less time and when the grid is greener cuts carbon footprint.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 
 * * *
@@ -77,5 +75,5 @@ Turning off testing environments when not in use cuts energy consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}

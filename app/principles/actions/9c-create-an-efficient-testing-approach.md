@@ -8,11 +8,13 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-Design an approach to testing that is as efficienyt as possible.
+Software testing is the process of evaluating an application to check if it meets the requirements and functions as intended.
+
+Design an approach to testing that is as efficient as possible.
 
 ### Likely Lead Roles
 
-QA & Testing, Developer
+QA & Testing, developer
 
 * * *
 
@@ -29,7 +31,7 @@ QA & Testing, Developer
 
 ###  (i) Adopt a shift-left testing approach
 
-Shift-Left (test earlier) is accepted good practice to avoid energy intensive rework. Shift-Right (test in live environments) also enables identification of runtime inefficiencies.
+Shift-Left (to begin testing earlier) is accepted good practice to avoid energy intensive rework. Shift-Right (testing in live environments) also enables identification of runtime inefficiencies.
 
 #### Environmental benefit: 
 Reduces resource consumption through fewer test runs, less rework, and unnecessary builds.
@@ -38,7 +40,7 @@ Reduces resource consumption through fewer test runs, less rework, and unnecessa
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -51,7 +53,7 @@ Using asynchronous testing can reduce network congestion and data transfer costs
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 }) }}
 
 * * *
@@ -66,7 +68,8 @@ Optimising test scripts for performance can mean avoiding redundant steps and mi
 Optimising test scripts use fewer resources.
 
 {{ govukDetails({
-  summaryText: "Read more"
+  summaryText: "Read more",
+  html: "Coming soon!"
 }) }}
 
 * * *
@@ -81,13 +84,13 @@ To avoid data duplication, consider:
 • automatically removing redundant test data
 
 #### Environmental benefit: 
-Reduces
+Reduces resources associated with data storage and retrieval.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -98,22 +101,23 @@ Run only the relevant tests based on code changes.
 Some tests should be run in every commit, but complex tests can be kept for scheduled CICD jobs rather than every commit.
 
 #### Environmental benefit: 
-Avoiding running unnecessaryb tests saves on resource consumtpion.
+Avoiding running unnecessary tests saves on resource consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Some placeholder text"
+  html: "Coming soon!"
 }) }}
 
 * * *
 
 ### (vi) Test for page weight
 
-It is important to test for page weight to avoid bloat. Although GDS priorities lightweight HTML, CSS and JavaScript, testing can identify unnecessary components.
+It is important to test for page weight to avoid bloat. Although GDS prioritises lightweight HTML, CSS and JavaScript, testing can identify unnecessary components.
 
 #### Environmental benefit: 
-Using asynchronous testing can reduce network congestion and data transfer costs.
+Reducing page weights saves on data transfer and associated energy consumption.
 
 {{ govukDetails({
-  summaryText: "Read more"
+  summaryText: "Read more",
+  html: "Coming soon!"
 }) }}

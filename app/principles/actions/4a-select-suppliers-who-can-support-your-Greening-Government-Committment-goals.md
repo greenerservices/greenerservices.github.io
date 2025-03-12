@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 The Greening Government Commitments lay out the actions UK government departments and their agencies will take to reduce their impacts on the environment.
 
-Businesses commonly set broad sustaiability goals under the 'ESG' framework. For larger organisations, reporting on Scope 1 (direct emissions from sources owned or controlled by the company) and Scope 2 (indirect emissions from the generation of purchased energy) is mandatory.
+Businesses commonly set broad sustaiability goals under the Environmental, Social and Governance Framework (ESG) framework. For larger organisations, reporting on Scope 1 (direct emissions from sources owned or controlled by the company) and Scope 2 (indirect emissions from the generation of purchased energy) is mandatory.
 * * *
 
 ## Sub-actions

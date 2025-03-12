@@ -10,6 +10,8 @@ eleventyNavigation:
 
 DevOps is a an approach that combines software development practices and operations to improve collaboration and software delivery. 
 
+We can build on established best practice for DevOps to further boost environmental sustainability.
+
 ### Likely Lead Roles
 
 DevOps Engineer, solution architect
@@ -32,13 +34,13 @@ Logging can use significant computing and storage resources.
 Check logging and retention policies are appropriate. Consider removing unused logs, and automate this process if possible.
 
 #### Environmental benefit: 
-Doing only the necessary logging can ensure 
+Reducing stored logs can save on resources.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -51,22 +53,22 @@ Reducing the number of updates can save on resources.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ### (iii) Optimise continuous integration and delivery pipelines, containers and kubernetes clusters
 
-A Continuous Improvement/Continuous Delivery (CI-CD) pipeline is a series of steps that developers must follow to test and deliver software. 
+A Continuous Improvement/Continuous Delivery (CI-CD) pipeline is a series of steps that developers follow to test and deliver software. 
 
-Optimise kubernetes clusters, limit container image sizes. enable kubernetes resource limits. 
+Optimise kubernetes clusters, limit container image sizes and enable kubernetes resource limits. 
 
 #### Environmental benefit: 
-Placeholder
+Reduced resource consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -75,9 +77,9 @@ Placeholder
 Rely on green computing principles of rightsizing and dynamic scaling covered in infrastructure design.
 
 #### Environmental benefit: 
-Placeholder
+Save on resources
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}

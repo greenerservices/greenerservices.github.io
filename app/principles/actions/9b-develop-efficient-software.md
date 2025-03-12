@@ -8,7 +8,9 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-Develop efficient software by building on the good practice for design described in Principle 8 'Design for greener architecture, data and security'. Consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Develop efficient software by building on the best practice described in Principle 8 [Design for greener architecture, data and security](principles/8-design-for-greener-architecture-data-security).
+
+Consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
 
 ### Likely Lead Roles
 
@@ -36,7 +38,7 @@ Using server-side rendering reduces processing and energy use.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -93,7 +95,7 @@ Using caching can reduce unnecessary data transfer and server load, cutting ener
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 
 * * *
@@ -107,5 +109,5 @@ Using content delivery networks reduce web traffic helping cut energy use.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}

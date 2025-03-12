@@ -38,7 +38,7 @@ Choosing an energy efficient programming language can cut consumption.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -51,7 +51,7 @@ Choosing lightweight frameworks reduces computational demands in the browser.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "some placeholder"
+  html: "Coming soon!"
 }) }}
 
 * * *
@@ -64,5 +64,6 @@ Low-code or no-code are methods of designing and developing apps using drag and 
 Choosing a low code or no code approach reduces the time and resources required to develop software.
 
 {{ govukDetails({
-  summaryText: "Read more"
+  summaryText: "Read more",
+  html: "Coming soon!"
 }) }}
