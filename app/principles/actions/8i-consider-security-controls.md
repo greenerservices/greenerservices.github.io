@@ -8,7 +8,9 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-Digital security controls are measures that organisations implement to protect their data and systems from cyber threats. Security is one area where there may be trade-offs with sustainability that need to be negotiated. 
+Digital security controls are measures that organisations implement to protect their data and systems from cyber threats. 
+
+A balance between Security is one area where there may be trade-offs with sustainability that need to be negotiated. 
 
 ### Likely Lead Roles
 
@@ -18,11 +20,11 @@ Security architect
 
 ## Sub-actions
 
-[8i. (i) Optimise backups and redundancies](#(ii)-optimise-backups-and-redundancies)
-[8i. (ii) Choose the right cryptographic algorithms](#(iii)-choose-the-right-cryptographic-algorithms)
-[8i. (iii) Consider optimal patch management](#(iv)-consider-optimal-patch-management)
-[8i. (iv) Consider timing of security scans and updates](#(v)-consider-timing-of-security-scans-and-updates)
-[8i. (v) Calculate the emissions of security controls](#(vi)-calculate-the-emissions-of-security-controls)
+[8i. (i) Optimise backups and redundancies](#(i)-optimise-backups-and-redundancies)
+[8i. (ii) Choose the right cryptographic algorithms](#(ii)-choose-the-right-cryptographic-algorithms)
+[8i. (iii) Consider optimal patch management](#(iii)-consider-optimal-patch-management)
+[8i. (iv) Consider timing of security scans and updates](#(iv)-consider-timing-of-security-scans-and-updates)
+[8i. (v) Calculate the emissions of security controls](#(v)-calculate-the-emissions-of-security-controls)
 
 * * *
 
@@ -35,6 +37,8 @@ Improve your resilience by shortening backup retention times and removing duplic
 
 #### Environmental benefit: 
 Reduced data storage.
+
+{% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
