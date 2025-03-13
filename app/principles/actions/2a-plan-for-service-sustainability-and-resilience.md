@@ -13,7 +13,7 @@ Environmental considerations should be included as part of requirement gathering
 
 ## Lead Roles
 
-Service owner, Product manager, Business analyst
+Service owner, product manager, business analyst
 
 * * *
 
@@ -32,9 +32,7 @@ Service owner, Product manager, Business analyst
 When gathering requirements:  
 
  * identify and prioritise the environmental impacts of project requirements
-
  * understand the benefits and trade offs between priorities, for example environmental impacts versus user needs or performance
-
  * understand the risks of keeping parts of an existing service or process
 
 #### Environmental benefit: 
@@ -44,7 +42,7 @@ Placeholder
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -62,7 +60,7 @@ Placeholder
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
 
@@ -83,7 +81,7 @@ Placeholder
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
 

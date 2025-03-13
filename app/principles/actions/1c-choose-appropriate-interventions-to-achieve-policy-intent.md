@@ -8,14 +8,13 @@ eleventyNavigation:
   parent:  1. Understand the problem and policy intent
 ---
 
-Government can make a whole range of interventions, from. Further reading in gov as a system. 
+Government can make a whole range of interventions to achieve policy goals, ranging from things like connecting and collaborating through to funding, forecasting, regulating and delivering services.
  
-Government as a System Toolkit, Policy Lab
+Policy Lab's [Government as a System Toolkit](https://openpolicy.blog.gov.uk/2020/03/06/introducing-a-government-as-a-system-toolkit/) describes a full suite of 56 'actions' that government can take.
 
+### Likely Lead Roles
 
-## Lead Roles
-
-Policy, policy design
+Policy, policy design, service design
 
 * * *
 
@@ -27,33 +26,33 @@ Policy, policy design
 
 ###  (i) Consider the full range of online and offline interventions
 
-Developing a new digital service may be one option from a range of possible levers or interventions that government can make, and often government is most effective when it pulls a few different complementary levers or styles of action in combination. 
+Developing a new digital service may be one option from a range of possible levers or interventions that government can make. Often government is most effective when it pulls a few different complementary levers or follows a number of 'styles of action' in combination. 
 
 #### Environmental benefit: 
-Placeholder
+Choosing the right intervention(s) gives us the best chance of delivering on any policy goals relating to sustainability.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Model outcomes of different interventions
 
-Modelling the impacts of a service and/or other interventions at this stage may enable teams to better understand and predict the potential effects on the environment, economy, or society. Where appropriate, this should include consideration of the systemic effects and impacts on behaviours, such as rebound effects from the use of technology.
+Modelling the impacts of a service and/or other interventions at an early stage may enable teams to better understand and predict the potential effects on the environment, economy, or society. 
 
-This insight can then inform decisions on which interventions are most appropriate, before a project or projects begin.
+Where appropriate, modelling should include consideration of the systemic effects and impacts on behaviours, such as rebound effects from the use of technology. This insight can then inform decisions on which interventions are most appropriate, before a project or projects begin.
 
-See Measurement principle. 
+See Principle 3 'Measure and publish the impact of the service'. 
 
 #### Environmental benefit: 
-Placeholder
+Insight from modelling can inform decisions on which interventions give us the best chance of delivering policy goals.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
 

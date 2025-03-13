@@ -19,7 +19,7 @@ Platform team, business analysis, service owner
 ## Sub-actions
 
 [10c. (i) Ensure measurement tooling is available](#(i)-ensure-measurement-tooling-is-available)
-[10c. (ii) Measure per transaction](#(ii)-measure-per-transaction)
+[10c. (ii) Measure impacts per transaction](#(ii)-measure-impacts-per-transaction)
 [10c. (iii) Apply tagging to resources](#(iii)-apply-tagging-to-resources)
 [10c. (iv) Measure application performance](#(iv)-measure-application-performance)
 
@@ -29,7 +29,7 @@ Platform team, business analysis, service owner
 Hosting platforms should provide access to tools or data to measure cost and emissions. Use service level objectives (SLOs) to set up automated reporting and dashboards.   
 
 #### Environmental benefit: 
-The right measurement tooling and reporting
+The right measurement tooling and reporting enables identification of where efficiences can be found for live services.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -40,11 +40,11 @@ The right measurement tooling and reporting
 
 * * *
 
-###  (ii) Measure per transaction
-Define key metrics for reporting like energy usage and carbon emissions. Measuring on a per transaction basis for workloads will support data-driven decision-making.  
+###  (ii) Measure impacts per transaction
+Measuring on a per transaction basis means quantifying the impacts of individual API calls, orders, or other transactions processed. 
 
 #### Environmental benefit: 
-Turning off environments when not in use saves on energy consumption.
+Insight on a per transaction basis will support data-driven decision-making on reducing environmental impacts.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -54,8 +54,10 @@ Turning off environments when not in use saves on energy consumption.
 * * *
 
 ### (iii) Apply tagging to resources
-
 Tagging resources builds on good FinOps practice. It enables granular reporting of consumption and emissions.
+
+#### Environmental benefit: 
+Insight on a per transaction basis supports data-driven decision-making on how to reduce environmental impacts.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -65,8 +67,10 @@ Tagging resources builds on good FinOps practice. It enables granular reporting 
 * * *
 
 ### (iv) Measure application performance
+Continue to measure the performance of software applications to check the impact of changes on delivery.
 
-Continue measuring performance to check the impact of other changes on delivery.
+#### Environmental benefit: 
+Continued measurement allows assessment of how changes impact environmental footprint.
 
 {{ govukDetails({
   summaryText: "Read more",

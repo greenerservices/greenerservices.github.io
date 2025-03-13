@@ -9,13 +9,13 @@ eleventyNavigation:
 ---
 
 You should understand the problem you are trying to solve based on:
-* benefits to end users and your organisation
-* wider economic, social and environmental impacts
+
+• benefits to end users and your organisation
+• wider economic, social and environmental impacts
 
 You should use focused research in the early stages of your project. Continue to research and learning should as prototypes are developed and iterated.
 
-
-## Lead Roles
+### Likely Lead Roles
 
 User researcher
 
@@ -23,57 +23,59 @@ User researcher
 
 ## Sub-actions
 
-[1b. (i) Conduct research with array of stakeholders](#(i)-conduct-research-with-array-of-stakeholders)
+[1b. (i) Conduct research with a full array of stakeholders](#(i)-conduct-research-with-a-full-array-of-stakeholders)
 [1b. (ii) Map the problem space as a system](#(ii)-map-the-problem-space-as-a-system)
-[1b. (ii) Share research on users and the wider context of your project](#(iii)-share-research-on-users-and-the-wider-context-of-your-project)
+[1b. (iii) Share research across projects and programmes](#(iii)-share-research-across-projects-and-programmes)
 * * *
 
-###  (i) Conduct research with array of stakeholders
+###  (i) Conduct research with a full array of stakeholders
 
-Map stakeholders to environmental aspects of your project. Include as many stakeholders as possible, including direct users and funders or owners.
+Map stakeholders to environmental aspects of your project. Include as many stakeholders as possible, including direct users, wider communities and societies. It may be appropriate to include nautral ecosystems as well.
 
-Use a variety of recruitment methods to attract a range of participants. Include participants who reflect social, economic and environmental factors.  
+Use a variety of recruitment methods to attract a range of participants. Include participants who reflect the full range of social, economic and environmental aspects relevant for the service. 
 
 #### Environmental benefit: 
-Placeholder
+Research with the full range of stakeholders helps us understand the full array of environmental impacts and implications.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
 ###  (ii) Map the problem space as a system
 
-System mapping can be both qualitative and quantitative. It allows you to:
+System mapping can be both qualitative and quantitative. It can allows you to:
 
-* identify the environmental impacts you need to measure
-* model the impacts of intervention
+• identify the range of environmental impacts you need to or could measure
+• model the impacts of intervention
 
 You should identify:
-* points where intervention can help achieve desired outcomes
-* any unintended consequences or knock on effects of intervention
+
+• points where interventions under consideration can help achieve desired outcomes
+• any unintended consequences or knock on effects of intervention
 
 #### Environmental benefit: 
-Placeholder
+Systems mapping helps us understand the environmental imapcts of interventions in societal contexts.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
+
 * * *
 
-###  (iii) Share research on users and the wider context of your project
+###  (iii) Share research across projects and programmes
 
 Collaborate with user researchers across whole programmes of work. Explore opportunities to create 'meta analysis' of user needs across different areas.
 
 #### Environmental benefit: 
-Placeholder
+Sharing research saves on the environmental impacts coming from duplicating work.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 
