@@ -5,9 +5,9 @@ title: 3a. Measure the impact of the service
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: 3a. Measure the impact of the service
-  parent:  3. Measure and publish the impact of the service
+  parent:  3. Measure the impact of the service and teams
 ---
-Measuring a baseline, and then
+Measuring the environmental impacts of services with confidence is crucial for tracking progress, identifying areas for improvement and enabling informed decision-making and resource management.
 
 * * *
 
@@ -16,7 +16,7 @@ Measuring a baseline, and then
 [3a. (i) Set a baseline](#(i)-set-a-baseline)
 [3a. (ii) Model the environmental impacts of different solutions under consideration](#(ii-model-the-environmental-impacts-of-different-solutions-under-consideration)-choose-suppliers-that-have-committed-to-carbon-reduction-plans-and-science-based-targets-across-their-supply-chains)
 [3a. (iii) Choose appropriate metrics for the service](#(iii)-choose-suppliers-that-aling-with-government-measurement-and-reporting-methodology-for-digital)
-[3a. (iv) Choose suppliers with comprehensive reporting](#(iv)-choose-suppliers-with-comprehensive-reporting)
+[3a. (iv) Publish and share service measurement methods](#(iv)-publish-and-share-service-measurement-methods)
 
 * * *
 
@@ -39,10 +39,10 @@ A baseline provides a benchmark against which we can assess the impact of action
 
 ###  (ii) Model the environmental impacts of different solutions under consideration
 
-Model the environmental impacts of different solutions when trying them out in alpha. This helps inform decisions about which options to develop.
+Model the environmental impacts of different solutions when trying them out in alpha.
 
 #### Environmental benefit: 
-Placeholder
+Modelling impacts helps inform decisions about which options to develop.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -65,23 +65,22 @@ Key performance indicators (KPIs) could focus on:
 KPIs can also focus on targets other than carbon, such as water usage, electricity
 
 #### Environmental benefit: 
-Placeholder.
+Appropriate KPIs allow us to measure what is important for a given service.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 
 * * *
 
 ###  (iv) Publish and share service measurement methods
-
-Sharing how progress against environmental goals is measured encourages and transparency. It also allows us to learn from one another's efforts.
+Publish and share your service's approach to measurement.
 
 #### Environmental benefit: 
-Placeholder.
+Sharing how progress against environmental goals is measured encourages and transparency. It also allows us to learn from one another's efforts.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}

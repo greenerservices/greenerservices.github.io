@@ -1,81 +1,31 @@
 ---
 homepage: false
 layout: main
-title: 4a. Select suppliers who can support your Greening Government Commitment goals
+title: 3b. Measure the impact of your team
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 4a. Select suppliers who can support your Greening Government Commitment goals
-  parent:  4. Select partners who can support your greener goals
+  key: 3b. Measure the impact of your team
+  parent:  3. Measure the impact of the service and teams
 ---
 A team produces environmental impact from their use of technology, travel and working practices.
 * * *
 
 ## Sub-actions
 
-[3b. (i) Measure and improve the sustainability of your team](#(i)-ensure-suppliers-include-their-corporate-sustainability-goals-in-bids-and-planning)
+[3b. (i) Measure and improve the sustainability of your team](#(i)-measure-and-improve-the-sustainability-of-your-team)
 
 * * *
 
-###  (i) Ensure suppliers include their corporate sustainability goals in bids and planning
+###  (i) Measure and improve the sustainability of your team
 
-An ESG strategy covers environmental and social impact, and governance. Sustainability goals should outline how short and log term targets will be reached.
+Use an emissions calculator to monitor personal emissions footprints. [More detail to follow]
 
 #### Environmental benefit: 
-Placeholder.
+Measuring the impacts of teams help identify ways these can be reduced.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
-}) }}
-* * *
-
-###  (ii) Choose suppliers that have committed to carbon reduction plans and Science Based Targets across their supply chains
-
-Carbon emission reduction targets will form part of an organisation's ESG strategy. A Carbon Reduction Plan provides a visible way to measure your supply chain’s impact on your organisation’s carbon footprint
-
-For any size of contract you should check suppliers:
-- have committed to meeting the government's NetZero targets
-- published a carbon reduction plan
-
-#### Environmental benefit: 
-Placeholder
-
-{{ govukDetails({
-  summaryText: "Read more",
-  html: "Placeholder"
-}) }}
-
-* * *
-
-###  (iii) Choose suppliers that align with government measurement and reporting methodology for digital
-
-Standard methodlogies for reporting. These are being developed in UK government. [More detail to follow]
-
-#### Environmental benefit: 
-Placeholder.
-
-{{ govukDetails({
-  summaryText: "Read more",
-  html: "Placeholder"
-}) }}
-
-* * *
-
-###  (iv) Choose suppliers with comprehensive reporting
-
-Transparent reporting on sustainability goals means stakeholders can:
-
-follow a supplier's ESG impacts
-check progress on a supplier's ESG goals
-
-Reports should be accessible to the public and regularly updated.
-
-#### Environmental benefit: 
-Placeholder.
-
-{{ govukDetails({
-  summaryText: "Read more",
-  html: "Placeholder"
+  text: "Coming soon!"
 }) }}

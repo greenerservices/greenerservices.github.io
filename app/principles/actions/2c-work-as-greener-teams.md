@@ -8,11 +8,11 @@ eleventyNavigation:
   parent:  2. Create a sustainability strategy
 ---
 
-The impacts of the team working on a service are one the embodied impacts of that service. This includes in-house and supplier teams. Setting up teams to work in greener ways can use less resources throughout the project's lifecycle
+The impacts of the team working on a service are one the embodied impacts of that service. This includes in-house and supplier teams. Setting up teams to work in greener ways can use less resources throughout the project's lifecycle.
 
 ### Likely Lead Roles
 
-Delivery Manager
+Delivery manager
 
 * * *
 
@@ -20,7 +20,7 @@ Delivery Manager
 
 [2c. (i) Have a plan in place for team travel](#(i)-have-a-plan-in-place-for-team-travel)
 [2c. (ii) Create space for team to discuss sustainability](#(ii)-create-space-for-team-to-discuss-sustainability)
-[2c. (iii) Approaches to meetings](#(iii)-approaches-to-meetings)
+[2c. (iii) Take a greener approach to meetings](#(iii)-take-a-greener-approach-to-meetings)
 [2c. (iv) Provide training to help deliver greener services](#(iv)-provide-training-to-help-deliver-greener-services)
 
 * * *
@@ -58,32 +58,32 @@ Discussing sustainability raises general awareness and may highlight opportuniti
 }) }}
 * * *
 
-###  (iii) Approaches to meetings
+###  (iii) Take a greener approach to meetings
 
 Set up purposeful meetings, with a clear agenda and actions to take away.
 
 If a meeting is online, turn off videos after introductions and only screen share when required
 
 #### Environmental benefit: 
-Placeholder
+Greener meetings save on resources.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
 
 ###  (iv) Provide training to help deliver greener services
 
-Training promotes a sustainable culture. Sharing understanding of sustainability goals helps create passion.
+Training for how to deliver promotes a culture of environmental sustainability. Sharing understanding of sustainability goals helps create passion.
 
 Make sure sustainability training is available to all staff, including contractors.
 
 #### Environmental benefit: 
-Placeholder
+Training provides the know-how and culture for delivering change.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
