@@ -21,16 +21,14 @@ The approach taken to the software tools utilised by teams designing, delivering
 
 ###  (i) Use shared tooling
 
-Digital shared tooling allow people to work together on projects from anywhere.
+Digital shared tooling allows team members to work together on projects from anywhere.
 
-#### Environmental benefit: 
-Placeholder
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -39,21 +37,23 @@ Placeholder
 A large email attachment can equate to the carbon footprint of 5 plastic carrier bags.
 
 #### Environmental benefit: 
-Placeholder
+Sharing documents on a shared server can save resource use compared to other methods.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 
 * * *
 
 ###  (iii) Uninstall unused software
 
+Uninstall software that is no longer being used by a team.
+
 #### Environmental benefit: 
-Placeholder
+Unistalling software can save on resources.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}

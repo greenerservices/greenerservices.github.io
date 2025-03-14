@@ -7,13 +7,13 @@ eleventyNavigation:
   key: 4. Work with partners who can support your greener goals
   parent: Principles
 ---
-Suppliers may provide a range of services, for example: dtvvdstg
+Suppliers may provide a range of services, for example:
 
 • hardware, software and infrastructure services (such as cloud providers)
 • design and delivery of services
 • operating a live service 
 
-The rules around public sector procurement changed on 24 February 2025. The Procurement Act 2023 will improve and streamline procurement. This will support suppliers of all sizes, particularly small businesses, start-ups and social enterprises.
+The rules around public sector procurement changed on 24 February 2025. The Procurement Act 2023 will improve and streamline procurement. 
 
 ## Actions
 [4a. Select suppliers who can support your Greening Government Commitment goals](/principles/actions/4a-select-suppliers-who-can-support-your-Greening-Government-Commitment-goals)
@@ -31,18 +31,3 @@ The rules around public sector procurement changed on 24 February 2025. The Proc
 <p class="govuk-body"><strong class="govuk-tag">
   Hardware
 </strong></p>
-
-* * *
-
-## Tools and frameworks
-
-Placeholder
-
-* * *
-
-## Further reading
-
-Placeholder
-
-
-

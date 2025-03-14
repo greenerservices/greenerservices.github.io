@@ -5,7 +5,7 @@ title: 4d. Select build partners with experience of delivering greener services
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: 4d. Select build partners with experience of delivering greener services
-  parent:  4. Work with partners who can support greener goals
+  parent:  4. Work with partners who can support your greener goals
 ---
 Suppliers may have experience in delivering more environmental sustainable services.
 
@@ -20,19 +20,19 @@ Suppliers may have experience in delivering more environmental sustainable servi
 
 ###  (i) Choose suppliers with track record of delivering greener services
 
-Where possible, work with build partners Check that suppliers:
+Check that suppliers:
 
-have a record of delivering more sustainable services 
-can show case studies or examples of services already built
+• have a record of delivering more sustainable services 
+• can show case studies or examples of services already built
 
 #### Environmental benefit: 
-Placeholder.
+Suppliers with experience of delivering more sustainable services 
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -41,9 +41,9 @@ Placeholder.
 Check that suppliers can plan for audits to show progress on sustainable targets
 
 #### Environmental benefit: 
-Placeholder
+Audits and transparency help ensure sustainability targets are being delivered. 
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}

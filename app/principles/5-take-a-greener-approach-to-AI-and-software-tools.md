@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: Principles
 ---
 
-Artificial Intelligence (AI) can be used in ways that help deliver a range of environmental benefits. For example, it might allow us to make processes more efficient, or identify opportunities to reduce waste.
+Artificial Intelligence (AI) can be used in ways that help deliver a range of environmental benefits. For example, it might allow us to monitor processes to identify opportunities to make them more efficient, or to reduce waste.
 
 However, AI comes at an environmental cost. This includes things like:
 
@@ -29,18 +29,6 @@ However, AI comes at an environmental cost. This includes things like:
 <p class="govuk-body"><strong class="govuk-tag">
   Efficiency
 </strong></p>
-
-* * *
-
-## Tools and frameworks
-
-Placeholder
-
-* * *
-
-## Further reading
-
-Placeholder
 
 
 
