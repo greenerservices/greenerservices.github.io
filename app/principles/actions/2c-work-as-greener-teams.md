@@ -50,7 +50,7 @@ Encourage sustainability discussions by:
 • include talks around sustainability at team and community sessions
 
 #### Environmental benefit: 
-Placeholder
+Discussing sustainability raises general awareness and may highlight opportunities for action.
 
 {{ govukDetails({
   summaryText: "Read more",

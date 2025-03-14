@@ -33,7 +33,7 @@ When gathering requirements:
 • understand the risks of keeping parts of an existing service or process
 
 #### Environmental benefit: 
-Including environmental impacts in the requirements ensures that there is visibility of these and they can be planned for and delivered against. 
+Including environmental impacts in project requirements ensures that there is visibility of these and they can be planned for and delivered against. 
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -53,7 +53,7 @@ For each project or service identify:
 • ways to mitigate the risks to the service
 
 #### Environmental benefit: 
-Identifying climate risks enables a project to plan for resilience.
+Identifying climate risks enables a project to plan for resilience to climate change.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -71,10 +71,8 @@ A project plan should balance environmental impacts against other priorities, in
 • cost
 • speed of delivery
 
-Understanding the current service baseline will help align the project plan to strategic objectives and sustainability goals.
-
 #### Environmental benefit: 
-Placeholder
+A project plan with environmental sustainability suitably balanced against other priorities has the best chance of successful delivery.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -86,10 +84,10 @@ Placeholder
 
 Non-functional requirements (NFRs) specify a system’s capabilities and constraints. 
 
-Services need NFRs to cover environmental impacts. Use key performance indicators and other measures to track progress against green targets.
+Services need NFRs to cover environmental impacts. 
 
 #### Environmental benefit: 
-Placeholder
+Use key performance indicators and other measures to track progress against green targets.
 
 {{ govukDetails({
   summaryText: "Read more",
