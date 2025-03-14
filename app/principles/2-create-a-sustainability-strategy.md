@@ -8,22 +8,18 @@ eleventyNavigation:
   parent: Principles
 ---
 
-Greener approaches to architecture, data and security maximise efficiency and reduce waste.
+A sustainability strategy sets out how a project will reduce environmental impacts and boost any benefits.
 
-<div class="govuk-inset-text app-wcag-callout">
-  <p class="govuk-body">The actions under this principle can generally be applied to on-premise systems as well as on the cloud.</p>
-</div>
+### Likely lead roles
 
-### Likley lead roles
-
-Service owner, Product manager, Business analyst, Delivery Manager
+Service owner, product manager, business analyst, delivery Manager
 
 * * *
 
 ## Actions
 [2a. Plan for service sustainability and resilience](/principles/actions/2a-plan-for-service-sustainability-and-resilience)
 [2b. Track sustainability as project progresses](/principles/actions/2b-track-sustainability-as-project-progresses)
-[2c. Team ways of working](/principles/actions/2c-team-ways-of-working)
+[2c. Work as greener teams](/principles/actions/2c-work-as-greener-teams)
 
 * * *
 
@@ -35,20 +31,5 @@ Service owner, Product manager, Business analyst, Delivery Manager
 <p class="govuk-body"><strong class="govuk-tag">
   Carbon Awareness
 </strong></p>
-
-* * *
-
-## Further reading
-
-Placeholder
-
-* * *
-
-## Tools and frameworks
-
-Placeholder
-
-
-
 
 

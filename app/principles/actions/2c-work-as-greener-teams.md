@@ -1,17 +1,16 @@
 ---
 homepage: false
 layout: main
-title: 2c. Team ways of working
+title: 2c. Work as greener teams
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 2c. Team ways of working
+  key: 2c. Work as greener teams
   parent:  2. Create a sustainability strategy
 ---
 
+The impacts of the team working on a service are one the embodied impacts of that service. This includes in-house and supplier teams. Setting up teams to work in greener ways can use less resources throughout the project's lifecycle
 
-
-
-## Lead Roles
+### Likely Lead Roles
 
 Delivery Manager
 
@@ -31,13 +30,13 @@ Delivery Manager
 Having the right tech packages and policies mean business travel is only needed when delivering benefit. It teams are travelling, encourage green transport.
 
 #### Environmental benefit: 
-Placeholder
+Reducing team travel in turn reduces energy use and direct greenhouse gas emissions.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
@@ -45,17 +44,17 @@ Placeholder
 
 Encourage sustainability discussions by:
 
-* devoting time in sprint planning and retros to discuss digital sustainability
-* ensuring teams understand the reasons for developing green services
-* document and share the benefits of sustainability on other project priorities
-* include talks around sustainability at team and community sessions
+• devoting time in sprint planning and retros to discuss digital sustainability
+• ensuring teams understand the reasons for developing green services
+• document and share the benefits of sustainability on other project priorities
+• include talks around sustainability at team and community sessions
 
 #### Environmental benefit: 
 Placeholder
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 * * *
 
