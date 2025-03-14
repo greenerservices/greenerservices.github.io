@@ -36,8 +36,8 @@ These principles have been developed through an open and collaborative process i
 
 * * *
 
-## 3\. Measure and publish the impact of the service
-[Read more](principles/3-measure-and-publish-the-impact-of-the-service)
+## 3\. Measure the impact of the service and teams
+[Read more](principles/3-measure-the-impact-of-the-service-and-teams)
 
 * * *
 
