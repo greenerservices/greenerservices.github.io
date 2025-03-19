@@ -11,7 +11,7 @@ eleventyNavigation:
 Greener approaches to architecture, data and security help maximise efficiency and reduce waste.
 
 <div class="govuk-inset-text app-wcag-callout">
-  <p class="govuk-body">The actions under this principle can generally be applied to on-premise systems as well as on the cloud.</p>
+  <p class="govuk-body">The actions under this principle can generally be applied to on-premise systems as well as data centres in the 'cloud'.</p>
 </div>
 
 ### Likely lead roles
@@ -30,8 +30,6 @@ Technical architect, solution architect, network architect, data architect, secu
 [8g. Identify data to be collected](/principles/actions/8g-identify-data-to-be-collected)
 [8h. Determine data storage and management practices](/principles/actions/8h-determine-data-storage-and-management-practices)
 [8i. Consider security controls](/principles/actions/8i-consider-security-controls)
-
-
 
 * * *
 
