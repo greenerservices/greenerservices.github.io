@@ -23,7 +23,6 @@ The approach taken to the software tools utilised by teams designing, delivering
 
 Digital shared tooling allows team members to work together on projects from anywhere.
 
-
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({

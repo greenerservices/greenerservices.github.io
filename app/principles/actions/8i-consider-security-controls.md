@@ -10,7 +10,7 @@ eleventyNavigation:
 
 Digital security controls are measures that organisations implement to protect their data and systems from cyber threats. 
 
-A balance between Security is one area where there may be trade-offs with sustainability that need to be negotiated. 
+Security is one area where there may be some trade-offs with environmental sustainability that need to be negotiated. 
 
 ### Likely Lead Roles
 
@@ -30,10 +30,12 @@ Security architect
 
 ###  (i) Optimise backups and redundancies
 
-Improve your resilience by shortening backup retention times and removing duplicate backups. You should consider:
+Shorten backup retention times and remove duplicate backups where possible.
+
+You should consider:
 
 • if shortening retention times is possible
-• the importance of duplicates and storage in security
+• the necessity of duplicates and storage
 
 #### Environmental benefit: 
 Reduced data storage.
@@ -97,7 +99,7 @@ Reduce carbon intensity of electricity used.
 
 ###  (v) Calculate the emissions of security controls
 
-Calculate the emissions of security controls allows us to identify potential reductions.
+Calculating the emissions of security controls allows us to identify potential reductions.
 
 #### Environmental benefit: 
 Identify opportunities to reduce resource consumption.
