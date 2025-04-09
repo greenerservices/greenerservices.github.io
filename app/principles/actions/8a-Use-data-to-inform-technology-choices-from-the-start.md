@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  8. Design for greener architecture, data and security
 ---
 
-The right data can allow us to embed environmental sustainability into technology decisions from the start, saving on the impacts of adapting approaches later in a project.
+The right data s can allow us to embed environmental sustainability into technology decisions from the start, saving on the impacts of adapting approaches later in a project.
 
 ### Likely Lead Roles
 
