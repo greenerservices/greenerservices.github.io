@@ -21,7 +21,7 @@ Technical architect, solution architect, network architect, data architect, secu
 * * *
 
 ## Actions
-[8a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
+[8a. Use data to inform technology choices from the start](/principles/actions/8a-use-data)
 [8b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
 [8c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
 [8d. Optimise your cloud computing service model](/principles/actions/8d-optimise-your-cloud-computing-service-model)
