@@ -62,10 +62,10 @@ Key performance indicators (KPIs) could focus on:
 • alerts
 • page load
 
-KPIs can also focus on targets other than carbon, such as water usage, electricity
+KPIs can also focus on targets other than carbon, such as water usage or electricity.
 
 #### Environmental benefit: 
-Appropriate KPIs allow us to measure what is important for a given service.
+Appropriate KPIs allow us to measure what is important for a particular service.
 
 {{ govukDetails({
   summaryText: "Read more",

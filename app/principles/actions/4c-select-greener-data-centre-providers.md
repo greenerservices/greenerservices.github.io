@@ -39,7 +39,7 @@ Data centres in regions with a lower-carbon grid mix will likely have lower oper
 }) }}
 * * *
 
-###  (ii) Choose providers monitoring energy and water usage
+###  (ii) Choose providers monitoring energy, water usage and performance
 
 The energy efficiency of a data centre is often expressed in terms of Power Usage Effectiveness (PUE). It is calculated by dividing the total amount of energy consumed by the facility by the energy used specifically by the IT equipment.
 
@@ -50,8 +50,72 @@ Monitoring energy and water use allows comparison between the efficiency of data
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Coming soon!"
+  html: "
+
+#### Likely environmental impact: medium
+
+This sub-action is likely to be of medium environmental impact.
+
+{% from "govuk/components/table/macro.njk" import govukTable %}
+
+{{ govukTable({
+  caption: "Month you apply",
+  captionClasses: "govuk-table__caption--m",
+  firstCellIsHeader: true,
+  head: [
+    {
+      text: "Date",
+      classes: "govuk-!-width-one-half"
+    },
+    {
+      text: "Rate for vehicles",
+      classes: "govuk-!-width-one-quarter"
+    },
+    {
+      text: "Rate for bicycles",
+      classes: "govuk-!-width-one-quarter"
+    }
+  ],
+  rows: [
+    [
+      {
+        text: "First 6 weeks"
+      },
+      {
+        text: "£109.80 per week"
+      },
+      {
+        text: "£59.10 per week"
+      }
+    ],
+    [
+      {
+        text: "Next 33 weeks"
+      },
+      {
+        text: "£159.80 per week"
+      },
+      {
+        text: "£89.10 per week"
+      }
+    ],
+    [
+      {
+        text: "Total estimated pay"
+      },
+      {
+        text: "£4,282.20"
+      },
+      {
+        text: "£2,182.20"
+      }
+    ]
+  ]
 }) }}
+
+"
+}) }}
+
 
 * * *
 

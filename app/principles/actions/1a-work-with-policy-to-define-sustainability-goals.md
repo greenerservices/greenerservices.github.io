@@ -39,8 +39,33 @@ Having clarity on policy goals relating to sustainability from the start helps e
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Coming soon!"
+  html: "
+  
+#### Co-benefits
+
+There are a range of acts and strategies defining goals for environmental benefit that your service can align to:
+ 
+ (i) UK Climate Change Act, updated 2019
+ A Legal Duty to Act The Climate Change Committee
+ (ii) UK Net Zero Strategy
+ The Government’s main climate change policy document is the net zero strategy which sets out policies and proposals for decarbonising all sectors of the UK economy to meet our net zero target by 2050.
+ Net Zero Strategy, UK Gov
+ A Legal Duty to Act The Climate Change Committee
+ (iii) 5 Environmental Principles for Policymaking
+ Statutory duty under Environment Act for ministers to take account of consideration of environment in policy making.
+ Environmental principles policy statement, UK Gov 
+(iv) The 25 Year Environment Plan
+ The UK’s 25 Year environment plan focuses on a number of targets for air and water quality, waste, climate change, biosecurity, and protecting threatened plants, trees and wildlife species.
+ The 25 Year Environment Plan, UK Gov (v) The Sustainable Development Goals
+ The UK has committed to the delivery of the Sustainable Development Goals which are a set of 17 goals 'to promote prosperity while protecting the planet'. The SDGs focused on the environment include 12. Responsible Consumption and Production, 13. Climate Action, 14. Life Below Water and 15. Life on Land.
+ Implementing the Sustainable Development Goals, UK Gov The SDGs Wedding Cake, Sustainable Development Goals
+ (vi) The Future Generations Act
+ The UK has committed to the delivery of the Sustainable Development Goals which are a set of 17 goals 'to promote prosperity while protecting the planet'. The SDGs focused on the environment include 12. Responsible Consumption and Production, 13. Climate Action, 14. Life Below Water and 15. Life on Land.
+ Future Generations Act, Wales The Longtime Project,
+
+"
 }) }}
+
 * * *
 
 ###  (ii) Engage in open policymaking where possible
@@ -54,5 +79,17 @@ Open policy making helps us deliver the outcomes, including those relating to su
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Coming soon!"
+  html: "
+  
+#### Co-benefits
+
+• Scalability and cost: Microservices can be scaled independently to meet demand, which can save costs. 
+• Flexibility and speed: Microservices enable each service to be changed independently, reducing the risk and time associated with making coordinated changes across a monolithic application.
+
+#### Further reading
+
+• Microsoft, [Microservice architecture style](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
+• Atlassian, [Advantages of microservices and disadvantages to know](https://www.atlassian.com/microservices/cloud-computing/advantages-of-microservices)
+
+"
 }) }}
