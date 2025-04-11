@@ -50,7 +50,6 @@ A more full range of metrics might look as follows:
 {% from "govuk/components/table/macro.njk" import govukTable %}
 
 {{ govukTable({
-  caption: "Month you apply",
   captionClasses: "govuk-table__caption--m",
   firstCellIsHeader: true,
   head: [
