@@ -45,64 +45,6 @@ The energy efficiency of a data centre is often expressed in terms of Power Usag
 
 Water plays an essential role in cooling data centres. Water Usage Effectiveness (WUE) is a measure of water efficiency. Tracking water use is even more important in areas of water stress and where free cooling is not used.
 
-A more full range of metrics might look as follows:
-
-{% from "govuk/components/table/macro.njk" import govukTable %}
-
-{{ govukTable({
-  captionClasses: "govuk-table__caption--m",
-  firstCellIsHeader: true,
-  head: [
-    {
-      text: "Date",
-      classes: "govuk-!-width-one-half"
-    },
-    {
-      text: "Rate for vehicles",
-      classes: "govuk-!-width-one-quarter"
-    },
-    {
-      text: "Rate for bicycles",
-      classes: "govuk-!-width-one-quarter"
-    }
-  ],
-  rows: [
-    [
-      {
-        text: "First 6 weeks"
-      },
-      {
-        text: "£109.80 per week"
-      },
-      {
-        text: "£59.10 per week"
-      }
-    ],
-    [
-      {
-        text: "Next 33 weeks"
-      },
-      {
-        text: "£159.80 per week"
-      },
-      {
-        text: "£89.10 per week"
-      }
-    ],
-    [
-      {
-        text: "Total estimated pay"
-      },
-      {
-        text: "£4,282.20"
-      },
-      {
-        text: "£2,182.20"
-      }
-    ]
-  ]
-}) }}
-
 #### Environmental benefit: 
 Monitoring energy and water use allows comparison between the efficiency of data centres.
 
