@@ -21,8 +21,6 @@ The Greener Service Principles are a set of guidelines for the design, developme
 
 These principles have been developed through an open and collaborative process involving colleagues from a wide range of disciplines across UK government and beyond.
 
-Hello!
-
 <div class="govuk-inset-text app-wcag-callout">
   <p class="govuk-body">In many cases, actions we can take to deliver more environmentally sustainable services build on what is already established best practice from a cost, usability, accessibility, reliability or other perspective.</p>
 </div>
